@@ -1,0 +1,3536 @@
+[
+  {
+    "id": "bookmia_qa.0.94",
+    "title": "1984",
+    "input": "According to 1984, who denounced Parsons to the patrols?",
+    "label": "his little daughter"
+  },
+  {
+    "id": "bookmia_qa.0.83",
+    "title": "1984",
+    "input": "According to 1984, what did Julia carry when she burst into the room?",
+    "label": "a tool-bag of coarse brown canvas"
+  },
+  {
+    "id": "bookmia_qa.0.67",
+    "title": "1984",
+    "input": "According to 1984, where was the telescreen hidden?",
+    "label": "behind the picture"
+  },
+  {
+    "id": "bookmia_qa.0.73",
+    "title": "1984",
+    "input": "According to 1984, where did Winston buy the blank book that became his diary?",
+    "label": "junk-shop"
+  },
+  {
+    "id": "bookmia_qa.0.89",
+    "title": "1984",
+    "input": "According to 1984, what department did the girl with dark hair work in?",
+    "label": "fiction department"
+  },
+  {
+    "id": "bookmia_qa.0.98",
+    "title": "1984",
+    "input": "According to 1984, what did he cry out loud in a moment of hallucination?",
+    "label": "julia, my love"
+  },
+  {
+    "id": "bookmia_qa.0.1",
+    "title": "1984",
+    "input": "According to 1984, what was the Ministry of Plenty's forecasted output of boots for the quarter?",
+    "label": "145 million pairs"
+  },
+  {
+    "id": "bookmia_qa.0.78",
+    "title": "1984",
+    "input": "According to 1984, what did Winston remember from his earliest childhood?",
+    "label": "aeroplanes"
+  },
+  {
+    "id": "bookmia_qa.0.8",
+    "title": "1984",
+    "input": "According to 1984, what is the worst thing in the world for Winston?",
+    "label": "rats"
+  },
+  {
+    "id": "bookmia_qa.0.80",
+    "title": "1984",
+    "input": "According to 1984, what did the girl slip into Winston's hand?",
+    "label": "a scrap of paper"
+  },
+  {
+    "id": "bookmia_qa.0.32",
+    "title": "1984",
+    "input": "According to 1984, what did Winston find disappointing about wine?",
+    "label": "its taste"
+  },
+  {
+    "id": "bookmia_qa.0.25",
+    "title": "1984",
+    "input": "According to 1984, who was the only original leader of the Revolution left by 1970?",
+    "label": "big brother"
+  },
+  {
+    "id": "bookmia_qa.0.53",
+    "title": "1984",
+    "input": "According to 1984, what did the telescreen command Ampleforth to do?",
+    "label": "keep still"
+  },
+  {
+    "id": "bookmia_qa.0.71",
+    "title": "1984",
+    "input": "According to 1984, what symbol of chastity did the dark-haired girl wear?",
+    "label": "scarlet sash"
+  },
+  {
+    "id": "bookmia_qa.0.16",
+    "title": "1984",
+    "input": "According to 1984, what department did the girl with the scarlet sash work in?",
+    "label": "fiction department"
+  },
+  {
+    "id": "bookmia_qa.0.64",
+    "title": "1984",
+    "input": "According to 1984, what did the Party intellectuals use to destroy his power of arguing and reasoning?",
+    "label": "merciless questioning"
+  },
+  {
+    "id": "bookmia_qa.0.0",
+    "title": "1984",
+    "input": "According to 1984, what does O'Brien claim Winston suffers from?",
+    "label": "a defective memory"
+  },
+  {
+    "id": "bookmia_qa.0.3",
+    "title": "1984",
+    "input": "According to 1984, what happens when O'Brien presses the second lever on the cage?",
+    "label": "the door of the cage will slide up."
+  },
+  {
+    "id": "bookmia_qa.0.59",
+    "title": "1984",
+    "input": "According to 1984, at what age did Comrade Ogilvy join the Spies?",
+    "label": "six"
+  },
+  {
+    "id": "bookmia_qa.0.58",
+    "title": "1984",
+    "input": "According to 1984, what invention made it easier to manipulate public opinion?",
+    "label": "print"
+  },
+  {
+    "id": "bookmia_qa.0.34",
+    "title": "1984",
+    "input": "According to 1984, what did the girl slip into his hand?",
+    "label": "a scrap of paper"
+  },
+  {
+    "id": "bookmia_qa.0.10",
+    "title": "1984",
+    "input": "According to 1984, what are the three stages in Winston's reintegration according to O'Brien?",
+    "label": "learning, understanding, and acceptance"
+  },
+  {
+    "id": "bookmia_qa.0.12",
+    "title": "1984",
+    "input": "According to 1984, at what age is the examination for admission to the Party taken?",
+    "label": "sixteen"
+  },
+  {
+    "id": "bookmia_qa.0.20",
+    "title": "1984",
+    "input": "According to 1984, what drink was the only one available in prole pubs?",
+    "label": "beer"
+  },
+  {
+    "id": "bookmia_qa.0.21",
+    "title": "1984",
+    "input": "According to 1984, what is the primary focus of scientific research in the Ministry of Peace?",
+    "label": "taking of life"
+  },
+  {
+    "id": "bookmia_qa.0.13",
+    "title": "1984",
+    "input": "According to 1984, what word was on Winston's lips when he woke up?",
+    "label": "shakespeare"
+  },
+  {
+    "id": "bookmia_qa.0.70",
+    "title": "1984",
+    "input": "According to 1984, where was the new Floating Fortress anchored?",
+    "label": "between iceland and the faroe islands"
+  },
+  {
+    "id": "bookmia_qa.0.57",
+    "title": "1984",
+    "input": "According to 1984, what is the only thing that holds the Brotherhood together?",
+    "label": "an idea"
+  },
+  {
+    "id": "bookmia_qa.0.29",
+    "title": "1984",
+    "input": "According to 1984, what is the official language of Oceania?",
+    "label": "newspeak"
+  },
+  {
+    "id": "bookmia_qa.0.77",
+    "title": "1984",
+    "input": "According to 1984, what drink was the only one available in prole pubs?",
+    "label": "beer"
+  },
+  {
+    "id": "bookmia_qa.0.82",
+    "title": "1984",
+    "input": "According to 1984, who was directing everything during Winston's interrogation?",
+    "label": "o'brien"
+  },
+  {
+    "id": "bookmia_qa.0.50",
+    "title": "1984",
+    "input": "According to 1984, what is the Party slogan mentioned in the passage?",
+    "label": "who controls the past controls the future"
+  },
+  {
+    "id": "bookmia_qa.0.46",
+    "title": "1984",
+    "input": "According to 1984, what did Julia call the type of conversation she had with Winston in the streets?",
+    "label": "talking by instalments"
+  },
+  {
+    "id": "bookmia_qa.0.91",
+    "title": "1984",
+    "input": "According to 1984, what does the Party seek power for?",
+    "label": "its own sake"
+  },
+  {
+    "id": "bookmia_qa.0.92",
+    "title": "1984",
+    "input": "According to 1984, according to O'Brien, where does reality exist?",
+    "label": "in the human mind"
+  },
+  {
+    "id": "bookmia_qa.0.23",
+    "title": "1984",
+    "input": "According to 1984, what date did he write in his diary?",
+    "label": "april 4th, 1984"
+  },
+  {
+    "id": "bookmia_qa.0.79",
+    "title": "1984",
+    "input": "According to 1984, what was the name of the church mentioned in the passage?",
+    "label": "st clement danes"
+  },
+  {
+    "id": "bookmia_qa.0.55",
+    "title": "1984",
+    "input": "According to 1984, what was the name of the underground network of conspirators led by Goldstein?",
+    "label": "the brotherhood"
+  },
+  {
+    "id": "bookmia_qa.0.19",
+    "title": "1984",
+    "input": "According to 1984, what did Winston believe was the source of hope?",
+    "label": "the proles"
+  },
+  {
+    "id": "bookmia_qa.0.75",
+    "title": "1984",
+    "input": "According to 1984, where did he decide was the safest place to try to talk to her?",
+    "label": "the canteen"
+  },
+  {
+    "id": "bookmia_qa.0.5",
+    "title": "1984",
+    "input": "According to 1984, what did the old man say he suffered from?",
+    "label": "his feet and bladder"
+  },
+  {
+    "id": "bookmia_qa.0.60",
+    "title": "1984",
+    "input": "According to 1984, what does Julia suggest using to temporarily block the rat hole?",
+    "label": "sacking"
+  },
+  {
+    "id": "bookmia_qa.0.26",
+    "title": "1984",
+    "input": "According to 1984, how far could he walk after exercising regularly?",
+    "label": "three kilometres"
+  },
+  {
+    "id": "bookmia_qa.0.48",
+    "title": "1984",
+    "input": "According to 1984, what was the old man in the Tube station reeking of?",
+    "label": "gin"
+  },
+  {
+    "id": "bookmia_qa.1.21",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what color were Ser Jaime Lannister's eyes?",
+    "label": "green"
+  },
+  {
+    "id": "bookmia_qa.1.90",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what did Gared lose to the cold?",
+    "label": "two ears, three toes"
+  },
+  {
+    "id": "bookmia_qa.1.89",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who was Catelyn Stark's sister?",
+    "label": "lady lysa"
+  },
+  {
+    "id": "bookmia_qa.1.70",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, where does Jon chain his wolf during training?",
+    "label": "the old stables"
+  },
+  {
+    "id": "bookmia_qa.1.99",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what did Bran's mother make him promise to do?",
+    "label": "stay on the ground"
+  },
+  {
+    "id": "bookmia_qa.1.25",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who was summoned to the sept to be made a brother?",
+    "label": "samwell tarly"
+  },
+  {
+    "id": "bookmia_qa.1.92",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what does Sansa ask King Joffrey for?",
+    "label": "mercy for her father"
+  },
+  {
+    "id": "bookmia_qa.1.73",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what did Ser Waymar shout before attacking with his frost-covered longsword?",
+    "label": "for robert"
+  },
+  {
+    "id": "bookmia_qa.1.37",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who forged King Robert's warhammer?",
+    "label": "donal noye"
+  },
+  {
+    "id": "bookmia_qa.1.17",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what did Grey Wind bite off from Lord Umber?",
+    "label": "two fingers"
+  },
+  {
+    "id": "bookmia_qa.1.19",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what color was Ser Jaime Lannister's armor at the Hand's tourney?",
+    "label": "gold"
+  },
+  {
+    "id": "bookmia_qa.1.0",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what is the color of dragonbone?",
+    "label": "black"
+  },
+  {
+    "id": "bookmia_qa.1.27",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what reward did the queen offer for the direwolf's skin?",
+    "label": "a hundred golden dragons"
+  },
+  {
+    "id": "bookmia_qa.1.6",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who suggested that Robb should call the banners?",
+    "label": "theon greyjoy"
+  },
+  {
+    "id": "bookmia_qa.1.72",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who is the Warden of the West?",
+    "label": "tywin lannister"
+  },
+  {
+    "id": "bookmia_qa.1.97",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what color were the man's eyes who attacked Catelyn?",
+    "label": "pale"
+  },
+  {
+    "id": "bookmia_qa.1.28",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who was given command to bring the king's justice to Gregor Clegane?",
+    "label": "lord beric dondarrion"
+  },
+  {
+    "id": "bookmia_qa.1.41",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, how much is the prize for the champion of the tournament commanded by King Robert?",
+    "label": "forty thousand golden dragons"
+  },
+  {
+    "id": "bookmia_qa.1.24",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what does Sansa ask King Joffrey to do for her father?",
+    "label": "show mercy"
+  },
+  {
+    "id": "bookmia_qa.1.94",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, how much debt does the Crown owe according to Littlefinger?",
+    "label": "more than six million gold pieces"
+  },
+  {
+    "id": "bookmia_qa.1.88",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who did Tyrion Lannister travel north with after leaving Winterfell?",
+    "label": "benjen stark and his nephew"
+  },
+  {
+    "id": "bookmia_qa.1.10",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, how many men did Robb bring together in his army?",
+    "label": "eighteen thousand"
+  },
+  {
+    "id": "bookmia_qa.1.54",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what color is Khal Drogo's skin described as?",
+    "label": "polished copper"
+  },
+  {
+    "id": "bookmia_qa.1.4",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who arranged the whole affair involving the girl and the outlaws?",
+    "label": "jaime"
+  },
+  {
+    "id": "bookmia_qa.1.16",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who is riding to Winterfell to seek out Ned?",
+    "label": "the king"
+  },
+  {
+    "id": "bookmia_qa.1.80",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what weapon did Arya use to kill the boy?",
+    "label": "needle"
+  },
+  {
+    "id": "bookmia_qa.1.3",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what did Bran's wolf do to save his life?",
+    "label": "saved the boy's life"
+  },
+  {
+    "id": "bookmia_qa.1.33",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, how many men did Lharys estimate were approaching?",
+    "label": "twenty to twenty-five"
+  },
+  {
+    "id": "bookmia_qa.1.5",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what did the Dothraki scream out comments about as Dany rode up the center aisle?",
+    "label": "her belly and her breasts"
+  },
+  {
+    "id": "bookmia_qa.1.83",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who is the chief of the Stone Crows?",
+    "label": "gunthor son of gurn"
+  },
+  {
+    "id": "bookmia_qa.1.11",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who did Sansa believe would never hurt her father?",
+    "label": "joffrey"
+  },
+  {
+    "id": "bookmia_qa.1.29",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who did Catelyn want to send for to treat Ser Rodrik's wounds?",
+    "label": "maester colemon"
+  },
+  {
+    "id": "bookmia_qa.1.71",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what is the name of Bran's horse?",
+    "label": "dancer"
+  },
+  {
+    "id": "bookmia_qa.1.26",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what did Dany command Ser Jorah to take from Viserys?",
+    "label": "his horse"
+  },
+  {
+    "id": "bookmia_qa.1.87",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who stopped Ser Gregor from killing Ser Loras Tyrell?",
+    "label": "the hound"
+  },
+  {
+    "id": "bookmia_qa.1.30",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what is the name of the singer who spoke with Catelyn and Ser Rodrik?",
+    "label": "marillion"
+  },
+  {
+    "id": "bookmia_qa.1.56",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what was Bran doing when he heard the voices?",
+    "label": "moving from gargoyle to gargoyle"
+  },
+  {
+    "id": "bookmia_qa.1.14",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what was the name of the hill where Catelyn's chests were carried?",
+    "label": "visenya's hill"
+  },
+  {
+    "id": "bookmia_qa.1.74",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, what does Ned Stark suggest the queen should do before the king returns from his hunt?",
+    "label": "take ship for the free cities"
+  },
+  {
+    "id": "bookmia_qa.1.62",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who did Robert Baratheon send the squires to find for a breastplate stretcher?",
+    "label": "ser aron santagar"
+  },
+  {
+    "id": "bookmia_qa.1.95",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who commanded the maester to remain at the Eyrie at all times?",
+    "label": "lady lysa"
+  },
+  {
+    "id": "bookmia_qa.1.78",
+    "title": "a game of thrones",
+    "input": "According to A Game Of Thrones, who is still betrothed to Joffrey?",
+    "label": "ned's older girl"
+  },
+  {
+    "id": "bookmia_qa.7.99",
+    "title": "casino royale",
+    "input": "According to Casino Royale, who did the girl compare Bond's appearance to?",
+    "label": "hoagy carmichael"
+  },
+  {
+    "id": "bookmia_qa.7.22",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Le Chiffre use to pour coffee down Bond's throat?",
+    "label": "a glass"
+  },
+  {
+    "id": "bookmia_qa.7.90",
+    "title": "casino royale",
+    "input": "According to Casino Royale, how much money did Bond have as his working capital?",
+    "label": "twenty-three million francs"
+  },
+  {
+    "id": "bookmia_qa.7.89",
+    "title": "casino royale",
+    "input": "According to Casino Royale, how long was Bond maltreated?",
+    "label": "about an hour"
+  },
+  {
+    "id": "bookmia_qa.7.38",
+    "title": "casino royale",
+    "input": "According to Casino Royale, who is Vesper's boss?",
+    "label": "head of s"
+  },
+  {
+    "id": "bookmia_qa.7.45",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what type of gun did the man take out from a concealed holster?",
+    "label": "colt army special .45"
+  },
+  {
+    "id": "bookmia_qa.7.87",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what color were the girl's eyes?",
+    "label": "deep blue"
+  },
+  {
+    "id": "bookmia_qa.7.8",
+    "title": "casino royale",
+    "input": "According to Casino Royale, who was sent from the Soviet Union to eliminate Le Chiffre?",
+    "label": "smersh"
+  },
+  {
+    "id": "bookmia_qa.7.28",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what was the profession of the man with the black patch?",
+    "label": "traveller in watches"
+  },
+  {
+    "id": "bookmia_qa.7.86",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Le Chiffre use to torture Bond?",
+    "label": "cane carpet-beater"
+  },
+  {
+    "id": "bookmia_qa.7.98",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what weapon did Le Chiffre take from Bond?",
+    "label": "beretta"
+  },
+  {
+    "id": "bookmia_qa.7.66",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Le Chiffre's car do when the man beside him pulled the lever sharply upwards?",
+    "label": "the boot yawned open"
+  },
+  {
+    "id": "bookmia_qa.7.79",
+    "title": "casino royale",
+    "input": "According to Casino Royale, who handed Miss Lynd a note at the table?",
+    "label": "the matre d'htel"
+  },
+  {
+    "id": "bookmia_qa.7.36",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Bond notice about the two men standing under a tree on the opposite side of the boulevard?",
+    "label": "they were dressed alike in dark suits."
+  },
+  {
+    "id": "bookmia_qa.7.50",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what type of gun did the character take out from the concealed holster?",
+    "label": "colt army special .45"
+  },
+  {
+    "id": "bookmia_qa.7.48",
+    "title": "casino royale",
+    "input": "According to Casino Royale, who killed Le Chiffre?",
+    "label": "smersh"
+  },
+  {
+    "id": "bookmia_qa.7.34",
+    "title": "casino royale",
+    "input": "According to Casino Royale, who killed Le Chiffre?",
+    "label": "smersh"
+  },
+  {
+    "id": "bookmia_qa.7.62",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what card did Bond receive that is known in gipsy magic as 'a whisper of love, a whisper of hate'?",
+    "label": "nine of hearts"
+  },
+  {
+    "id": "bookmia_qa.7.53",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did the man beside Le Chiffre pull sharply upwards?",
+    "label": "the lever"
+  },
+  {
+    "id": "bookmia_qa.7.30",
+    "title": "casino royale",
+    "input": "According to Casino Royale, who did Bond have to thank for being a Double 0?",
+    "label": "a japanese cipher expert and a norwegian double agent"
+  },
+  {
+    "id": "bookmia_qa.7.94",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what was the mark on his right hand?",
+    "label": "smersh"
+  },
+  {
+    "id": "bookmia_qa.7.84",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Vesper ask Bond to give her time for?",
+    "label": "to think"
+  },
+  {
+    "id": "bookmia_qa.7.85",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Bond change a million francs into?",
+    "label": "plaques of fifty mille"
+  },
+  {
+    "id": "bookmia_qa.7.21",
+    "title": "casino royale",
+    "input": "According to Casino Royale, where is the nursing home located where Bond is recovering?",
+    "label": "royale"
+  },
+  {
+    "id": "bookmia_qa.7.24",
+    "title": "casino royale",
+    "input": "According to Casino Royale, how much did Le Chiffre pay for the baccarat bank?",
+    "label": "a million francs"
+  },
+  {
+    "id": "bookmia_qa.7.18",
+    "title": "casino royale",
+    "input": "According to Casino Royale, how many packs of cards are in the shoe in front of Le Chiffre?",
+    "label": "six"
+  },
+  {
+    "id": "bookmia_qa.7.27",
+    "title": "casino royale",
+    "input": "According to Casino Royale, where did James Bond stay during his mission in Royale-les-Eaux?",
+    "label": "htel splendide"
+  },
+  {
+    "id": "bookmia_qa.7.9",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Le Chiffre order his men to do after Bond's car crashed?",
+    "label": "get him out"
+  },
+  {
+    "id": "bookmia_qa.7.69",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what was found beside Vesper's bed?",
+    "label": "an empty bottle of sleeping-pills"
+  },
+  {
+    "id": "bookmia_qa.7.37",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what did Mathis suggest Bond do after the incident?",
+    "label": "get a drink and some lunch and a rest"
+  },
+  {
+    "id": "bookmia_qa.7.19",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what was the name of the inn mentioned in the passage?",
+    "label": "l'auberge du fruit dfendu"
+  },
+  {
+    "id": "bookmia_qa.7.78",
+    "title": "casino royale",
+    "input": "According to Casino Royale, what is the name of the trade union controlled by Le Chiffre?",
+    "label": "syndicat des ouvriers d'alsace"
+  },
+  {
+    "id": "bookmia_qa.10.85",
+    "title": "dune",
+    "input": "According to Dune, who was the Padishah Emperor during the Arrakis Revolt?",
+    "label": "shaddam iv"
+  },
+  {
+    "id": "bookmia_qa.10.36",
+    "title": "dune",
+    "input": "According to Dune, what color are the eyes of the Shadout Mapes?",
+    "label": "blue-on-blue"
+  },
+  {
+    "id": "bookmia_qa.10.82",
+    "title": "dune",
+    "input": "According to Dune, what does Kynes say the climate demands a special attitude toward?",
+    "label": "water"
+  },
+  {
+    "id": "bookmia_qa.10.53",
+    "title": "dune",
+    "input": "According to Dune, who did Alia claim to have killed?",
+    "label": "their grandfather"
+  },
+  {
+    "id": "bookmia_qa.10.32",
+    "title": "dune",
+    "input": "According to Dune, who does Stilgar acknowledge as Duke of Arrakis?",
+    "label": "paul"
+  },
+  {
+    "id": "bookmia_qa.10.67",
+    "title": "dune",
+    "input": "According to Dune, who put the poison gas capsule in Duke Leto's mouth?",
+    "label": "yueh"
+  },
+  {
+    "id": "bookmia_qa.10.45",
+    "title": "dune",
+    "input": "According to Dune, what is Piter de Vries' profession?",
+    "label": "mentat-assassin"
+  },
+  {
+    "id": "bookmia_qa.10.86",
+    "title": "dune",
+    "input": "According to Dune, what is the name of the squad leader who gave Paul the hooks?",
+    "label": "shishakli"
+  },
+  {
+    "id": "bookmia_qa.10.96",
+    "title": "dune",
+    "input": "According to Dune, how old is Paul according to the passage?",
+    "label": "fifteen standard"
+  },
+  {
+    "id": "bookmia_qa.10.83",
+    "title": "dune",
+    "input": "According to Dune, who is responsible for studying the captured weapon for Liet?",
+    "label": "stilgar"
+  },
+  {
+    "id": "bookmia_qa.10.47",
+    "title": "dune",
+    "input": "According to Dune, who is the Baron's nephew mentioned in the passage?",
+    "label": "rabban"
+  },
+  {
+    "id": "bookmia_qa.10.84",
+    "title": "dune",
+    "input": "According to Dune, where did Stilgar suggest they camp for the evening meal and prayer?",
+    "label": "cave of birds"
+  },
+  {
+    "id": "bookmia_qa.10.57",
+    "title": "dune",
+    "input": "According to Dune, what color are the eyes of the girl in Paul's dream?",
+    "label": "all blue"
+  },
+  {
+    "id": "bookmia_qa.10.35",
+    "title": "dune",
+    "input": "According to Dune, what was the O.C. Bible denounced as?",
+    "label": "a work produced by \"the hubris of reason\""
+  },
+  {
+    "id": "bookmia_qa.10.65",
+    "title": "dune",
+    "input": "According to Dune, what did Paul ask Gurney to bring him?",
+    "label": "a captive sardaukar"
+  },
+  {
+    "id": "bookmia_qa.10.66",
+    "title": "dune",
+    "input": "According to Dune, who sabotaged the house generators?",
+    "label": "yueh"
+  },
+  {
+    "id": "bookmia_qa.10.80",
+    "title": "dune",
+    "input": "According to Dune, what is the meaning of the Fremen title \"Shadout\"?",
+    "label": "well-dipper"
+  },
+  {
+    "id": "bookmia_qa.10.17",
+    "title": "dune",
+    "input": "According to Dune, what is the supreme commandment of the Orange Catholic Bible?",
+    "label": "thou shall not disfigure the soul."
+  },
+  {
+    "id": "bookmia_qa.10.76",
+    "title": "dune",
+    "input": "According to Dune, how long has Paul been in his current state?",
+    "label": "three weeks"
+  },
+  {
+    "id": "bookmia_qa.10.91",
+    "title": "dune",
+    "input": "According to Dune, who did Paul Atreides want to send a message to?",
+    "label": "the emperor"
+  },
+  {
+    "id": "bookmia_qa.10.52",
+    "title": "dune",
+    "input": "According to Dune, what is the repayment rate for water at field rates according to Stilgar?",
+    "label": "ten for one"
+  },
+  {
+    "id": "bookmia_qa.10.62",
+    "title": "dune",
+    "input": "According to Dune, how many generations did the Bene Gesserit wait for the proper combination of genes and environment?",
+    "label": "ninety generations"
+  },
+  {
+    "id": "bookmia_qa.10.7",
+    "title": "dune",
+    "input": "According to Dune, who lived in the Arrakeen governor's mansion before Paul-Muad'Dib?",
+    "label": "rabban"
+  },
+  {
+    "id": "bookmia_qa.10.48",
+    "title": "dune",
+    "input": "According to Dune, what is the title of the woman who speaks to Jessica?",
+    "label": "shadout mapes"
+  },
+  {
+    "id": "bookmia_qa.10.11",
+    "title": "dune",
+    "input": "According to Dune, what had Paul not done that affected his leadership among the Fremen?",
+    "label": "ridden the maker"
+  },
+  {
+    "id": "bookmia_qa.10.60",
+    "title": "dune",
+    "input": "According to Dune, who wishes to kill a Harkonnen according to the passage?",
+    "label": "gurney halleck"
+  },
+  {
+    "id": "bookmia_qa.10.44",
+    "title": "dune",
+    "input": "According to Dune, what title does Kynes prefer to be called?",
+    "label": "planetologist"
+  },
+  {
+    "id": "bookmia_qa.10.98",
+    "title": "dune",
+    "input": "According to Dune, what did Feyd-Rautha order to be done with the dead gladiator?",
+    "label": "buried intact with his knife in his hands"
+  },
+  {
+    "id": "bookmia_qa.10.81",
+    "title": "dune",
+    "input": "According to Dune, what is unique about melange?",
+    "label": "true geriatric properties"
+  },
+  {
+    "id": "bookmia_qa.10.0",
+    "title": "dune",
+    "input": "According to Dune, what instrument does Gurney Halleck carry?",
+    "label": "nine-string baliset"
+  },
+  {
+    "id": "bookmia_qa.10.88",
+    "title": "dune",
+    "input": "According to Dune, how old is Paul in the passage?",
+    "label": "fifteen"
+  },
+  {
+    "id": "bookmia_qa.10.14",
+    "title": "dune",
+    "input": "According to Dune, what did Paul begin taking to calm himself?",
+    "label": "rhythmic breaths"
+  },
+  {
+    "id": "bookmia_qa.10.64",
+    "title": "dune",
+    "input": "According to Dune, what does the title \"Shadout\" mean?",
+    "label": "well-dipper"
+  },
+  {
+    "id": "bookmia_qa.10.6",
+    "title": "dune",
+    "input": "According to Dune, who did Paul-Muad'Dib order to summon a Council Gathering?",
+    "label": "stilgar"
+  },
+  {
+    "id": "bookmia_qa.10.87",
+    "title": "dune",
+    "input": "According to Dune, what is the addictive substance on Arrakis?",
+    "label": "spice"
+  },
+  {
+    "id": "bookmia_qa.10.49",
+    "title": "dune",
+    "input": "According to Dune, what title does Kynes prefer to be called?",
+    "label": "planetologist"
+  },
+  {
+    "id": "bookmia_qa.10.73",
+    "title": "dune",
+    "input": "According to Dune, what instrument does Gurney Halleck carry?",
+    "label": "baliset"
+  },
+  {
+    "id": "bookmia_qa.10.40",
+    "title": "dune",
+    "input": "According to Dune, what has the Duke sworn to leave no Harkonnen agent alive on?",
+    "label": "arrakis"
+  },
+  {
+    "id": "bookmia_qa.12.11",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, who did Montag kill with the flamethrower?",
+    "label": "the captain"
+  },
+  {
+    "id": "bookmia_qa.12.14",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, according to Faber, what is missing from the 'parlour families' today?",
+    "label": "infinite detail and awareness"
+  },
+  {
+    "id": "bookmia_qa.12.45",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what is the name of the girl who introduces herself to Guy Montag?",
+    "label": "clarisse mcclellan"
+  },
+  {
+    "id": "bookmia_qa.12.34",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, how many books did Montag find near the garden fence?",
+    "label": "four"
+  },
+  {
+    "id": "bookmia_qa.12.78",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, who is the man that represents the Book of Ecclesiastes in the group?",
+    "label": "harris of youngstown"
+  },
+  {
+    "id": "bookmia_qa.12.90",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what book did Montag give to the old man?",
+    "label": "the bible"
+  },
+  {
+    "id": "bookmia_qa.12.52",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Montag reveal to his wife that he had hidden?",
+    "label": "books"
+  },
+  {
+    "id": "bookmia_qa.12.33",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did the woman hold in her hand?",
+    "label": "a kitchen match"
+  },
+  {
+    "id": "bookmia_qa.12.5",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what natural phenomenon causes the light of the moon?",
+    "label": "the sun"
+  },
+  {
+    "id": "bookmia_qa.12.25",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, who was crying uncontrollably after Montag read the poem?",
+    "label": "mrs. phelps"
+  },
+  {
+    "id": "bookmia_qa.12.28",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what time was it when the house fell in red coals and black ash?",
+    "label": "three-thirty in the morning"
+  },
+  {
+    "id": "bookmia_qa.12.76",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Beatty do with the book Montag gave him?",
+    "label": "tossed it into the trash-basket"
+  },
+  {
+    "id": "bookmia_qa.12.61",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Montag hide in the kitchen of Mrs. Black's house?",
+    "label": "the books"
+  },
+  {
+    "id": "bookmia_qa.12.53",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what is the second necessary thing mentioned for improvement?",
+    "label": "leisure"
+  },
+  {
+    "id": "bookmia_qa.12.39",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, according to Faber, what is missing from the 'parlour families' today?",
+    "label": "infinite detail and awareness"
+  },
+  {
+    "id": "bookmia_qa.12.88",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what was the old man's profession before he retired?",
+    "label": "english professor"
+  },
+  {
+    "id": "bookmia_qa.12.35",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Mildred have in her ears every night?",
+    "label": "little seashells"
+  },
+  {
+    "id": "bookmia_qa.12.2",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what number is on Montag's helmet?",
+    "label": "451"
+  },
+  {
+    "id": "bookmia_qa.12.80",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Beatty use to rebut Montag?",
+    "label": "books"
+  },
+  {
+    "id": "bookmia_qa.12.44",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, where did Montag and Beatty stop with the Salamander?",
+    "label": "in front of montag's house"
+  },
+  {
+    "id": "bookmia_qa.12.65",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what weapon did Montag use against the Mechanical Hound?",
+    "label": "flame-thrower"
+  },
+  {
+    "id": "bookmia_qa.12.54",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did the announcer declare after the Mechanical Hound attacked the innocent man?",
+    "label": "montag is dead"
+  },
+  {
+    "id": "bookmia_qa.12.20",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what was the name of the high-school girl mentioned in the passage?",
+    "label": "clarisse"
+  },
+  {
+    "id": "bookmia_qa.12.30",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, how long did the Army say the war would last?",
+    "label": "forty-eight hours"
+  },
+  {
+    "id": "bookmia_qa.12.24",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what was the new job given to firemen after houses were fireproofed?",
+    "label": "custodians of our peace of mind"
+  },
+  {
+    "id": "bookmia_qa.12.12",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what weapon did Montag use to kill Beatty?",
+    "label": "flame-thrower"
+  },
+  {
+    "id": "bookmia_qa.12.31",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, who showed Granger V-2 rocket films?",
+    "label": "his grandfather"
+  },
+  {
+    "id": "bookmia_qa.12.79",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Montag grab to escape from the Hound?",
+    "label": "brass pole"
+  },
+  {
+    "id": "bookmia_qa.12.22",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Montag jam to his ear?",
+    "label": "seashell"
+  },
+  {
+    "id": "bookmia_qa.12.29",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Montag do to stop the images in the parlour?",
+    "label": "pulled the main switch"
+  },
+  {
+    "id": "bookmia_qa.12.32",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what was Granger's grandfather's profession?",
+    "label": "sculptor"
+  },
+  {
+    "id": "bookmia_qa.12.1",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Montag reveal to Mildred that he had hidden?",
+    "label": "books"
+  },
+  {
+    "id": "bookmia_qa.12.0",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what was Guy Montag's occupation?",
+    "label": "fireman"
+  },
+  {
+    "id": "bookmia_qa.12.68",
+    "title": "fahrenheit 451",
+    "input": "According to Fahrenheit 451, what did Granger give Montag to drink to change his scent?",
+    "label": "colourless fluid"
+  },
+  {
+    "id": "bookmia_qa.13.52",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what does Christian command to be taken slow?",
+    "label": "the pace"
+  },
+  {
+    "id": "bookmia_qa.13.85",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, how many glasses of hard liquor did Christian have?",
+    "label": "two"
+  },
+  {
+    "id": "bookmia_qa.13.73",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, where was Christian when Ana didn't tell him where she was?",
+    "label": "new york"
+  },
+  {
+    "id": "bookmia_qa.13.15",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, who is Christian's best man at the wedding?",
+    "label": "elliot"
+  },
+  {
+    "id": "bookmia_qa.13.91",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what does Taylor instruct Mrs. Grey to fasten around her wrist?",
+    "label": "the strap of the ignition key"
+  },
+  {
+    "id": "bookmia_qa.13.78",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what is the name of the new neighbor who moved into apartment sixteen?",
+    "label": "noah logan"
+  },
+  {
+    "id": "bookmia_qa.13.97",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what is Christian's biggest worry?",
+    "label": "they are after me"
+  },
+  {
+    "id": "bookmia_qa.13.86",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what news does Ana reveal to Christian?",
+    "label": "i'm pregnant"
+  },
+  {
+    "id": "bookmia_qa.13.25",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what is the color of the helicopter mentioned in the passage?",
+    "label": "blue"
+  },
+  {
+    "id": "bookmia_qa.13.7",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, who was the center of Christian's world when he was younger?",
+    "label": "elena"
+  },
+  {
+    "id": "bookmia_qa.13.53",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what is the name of the most exclusive nightclub in Aspen according to Mia?",
+    "label": "zax"
+  },
+  {
+    "id": "bookmia_qa.13.63",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, how old is Ted?",
+    "label": "two years"
+  },
+  {
+    "id": "bookmia_qa.13.13",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what does Christian pour onto Anastasia's palms?",
+    "label": "oily liquid"
+  },
+  {
+    "id": "bookmia_qa.13.55",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what does Christian's stocking have a picture of?",
+    "label": "santa"
+  },
+  {
+    "id": "bookmia_qa.13.49",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what time does Ana check on her BlackBerry?",
+    "label": "seven fifty"
+  },
+  {
+    "id": "bookmia_qa.13.34",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, where did Christian land after his flight?",
+    "label": "jfk"
+  },
+  {
+    "id": "bookmia_qa.13.96",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what does Christian expect Ana to be doing when he comes back to bed?",
+    "label": "asleep"
+  },
+  {
+    "id": "bookmia_qa.13.75",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, where was Ray airlifted from?",
+    "label": "community hospital in astoria"
+  },
+  {
+    "id": "bookmia_qa.13.50",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what does the playroom smell like?",
+    "label": "polished wood and citrus"
+  },
+  {
+    "id": "bookmia_qa.13.64",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, how many people does the speaker employ?",
+    "label": "over forty thousand"
+  },
+  {
+    "id": "bookmia_qa.13.32",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, how far along is Ana in her pregnancy?",
+    "label": "four or five weeks"
+  },
+  {
+    "id": "bookmia_qa.13.84",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what TV show were the end credits playing for?",
+    "label": "the x-files"
+  },
+  {
+    "id": "bookmia_qa.13.40",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, where was Christian when Ana didn't tell him where she was?",
+    "label": "new york"
+  },
+  {
+    "id": "bookmia_qa.13.57",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what color is Ted's hair?",
+    "label": "copper-colored"
+  },
+  {
+    "id": "bookmia_qa.13.35",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what did Dr. Flynn say that stayed with Christian?",
+    "label": "i couldn\u2019t be that way if you weren\u2019t so inclined."
+  },
+  {
+    "id": "bookmia_qa.13.31",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what charges is Hyde facing?",
+    "label": "attempted kidnap and arson"
+  },
+  {
+    "id": "bookmia_qa.13.51",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what mode of transportation will Christian use to get to New York?",
+    "label": "the company jet"
+  },
+  {
+    "id": "bookmia_qa.13.27",
+    "title": "fifty shades of grey",
+    "input": "According to Fifty Shades Of Grey, what time is it on the East Coast when Sawyer checks his watch?",
+    "label": "one forty-five in the morning"
+  },
+  {
+    "id": "bookmia_qa.14.91",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, who sold the old tin-lined box from the wreck?",
+    "label": "uncle quentin"
+  },
+  {
+    "id": "bookmia_qa.14.19",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did the children find under the stone with the iron ring?",
+    "label": "dungeon entrance"
+  },
+  {
+    "id": "bookmia_qa.14.12",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what is the name of the house where Aunt Fanny lives?",
+    "label": "kirrin cottage"
+  },
+  {
+    "id": "bookmia_qa.14.28",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did Aunt Fanny make that George had three slices of?",
+    "label": "gingerbread"
+  },
+  {
+    "id": "bookmia_qa.14.67",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, why did the men want to buy Kirrin Island and the castle?",
+    "label": "the lost gold was hidden there"
+  },
+  {
+    "id": "bookmia_qa.14.37",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did George think was a bad sign for going to the island?",
+    "label": "little white tops to the waves"
+  },
+  {
+    "id": "bookmia_qa.14.99",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, who took the oars and rowed the boat?",
+    "label": "george"
+  },
+  {
+    "id": "bookmia_qa.14.15",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, why did George decide not to explore the wreck immediately?",
+    "label": "dangerous to go into it yet"
+  },
+  {
+    "id": "bookmia_qa.14.47",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did Julian use to try to break the wooden door?",
+    "label": "an axe"
+  },
+  {
+    "id": "bookmia_qa.14.17",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, who claimed ownership of the gold found on the island?",
+    "label": "george"
+  },
+  {
+    "id": "bookmia_qa.14.30",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, why didn't George want to go for the picnic?",
+    "label": "she couldn't take her dog"
+  },
+  {
+    "id": "bookmia_qa.14.16",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what is the name of the island with the old ruined castle?",
+    "label": "kirrin island"
+  },
+  {
+    "id": "bookmia_qa.14.83",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what type of birds did the children see sitting on the rocks?",
+    "label": "cormorants"
+  },
+  {
+    "id": "bookmia_qa.14.69",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what is the name of George's private island?",
+    "label": "kirrin island"
+  },
+  {
+    "id": "bookmia_qa.14.53",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, who saved the map from the sea?",
+    "label": "tim"
+  },
+  {
+    "id": "bookmia_qa.14.95",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did George's father insist she do instead of going fishing?",
+    "label": "take her cousins to the bay"
+  },
+  {
+    "id": "bookmia_qa.14.42",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did the children use to try to force the box open initially?",
+    "label": "a chisel"
+  },
+  {
+    "id": "bookmia_qa.14.76",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did Julian buy in the village?",
+    "label": "ice-creams"
+  },
+  {
+    "id": "bookmia_qa.14.26",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what did George use to row the boat?",
+    "label": "oars"
+  },
+  {
+    "id": "bookmia_qa.14.22",
+    "title": "five on a treasure island",
+    "input": "According to Five On A Treasure Island, what name does Georgina prefer to be called?",
+    "label": "george"
+  },
+  {
+    "id": "bookmia_qa.17.89",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what time did Harry's train to Hogwarts leave?",
+    "label": "eleven o'clock"
+  },
+  {
+    "id": "bookmia_qa.17.65",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who was suspected of cursing Harry's broomstick?",
+    "label": "snape"
+  },
+  {
+    "id": "bookmia_qa.17.97",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who blocked Harry on purpose during the game?",
+    "label": "marcus flint"
+  },
+  {
+    "id": "bookmia_qa.17.6",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who blocked Harry on purpose during the Quidditch match?",
+    "label": "marcus flint"
+  },
+  {
+    "id": "bookmia_qa.17.29",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what was Snape holding above his knees in the staffroom?",
+    "label": "his robes"
+  },
+  {
+    "id": "bookmia_qa.17.15",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, how many letters arrived for Harry on Friday?",
+    "label": "twelve"
+  },
+  {
+    "id": "bookmia_qa.17.21",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Harry decide to name his new owl?",
+    "label": "hedwig"
+  },
+  {
+    "id": "bookmia_qa.17.45",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Harry see in the mirror?",
+    "label": "a blood-red stone"
+  },
+  {
+    "id": "bookmia_qa.17.72",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Hagrid pack for Norbert's journey?",
+    "label": "lots of rats and some brandy"
+  },
+  {
+    "id": "bookmia_qa.17.99",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who was the teacher instructing the students on how to use the brooms?",
+    "label": "madam hooch"
+  },
+  {
+    "id": "bookmia_qa.17.54",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, when did the break-in at Gringotts occur?",
+    "label": "31 july"
+  },
+  {
+    "id": "bookmia_qa.17.80",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who was testing Ron on Astronomy in the library?",
+    "label": "hermione"
+  },
+  {
+    "id": "bookmia_qa.17.37",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what is Quidditch compared to in the Muggle world?",
+    "label": "soccer"
+  },
+  {
+    "id": "bookmia_qa.17.28",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, how many ways of committing a Quidditch foul did Harry learn about?",
+    "label": "seven hundred"
+  },
+  {
+    "id": "bookmia_qa.17.85",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Aunt Petunia call her sister Lily?",
+    "label": "a freak"
+  },
+  {
+    "id": "bookmia_qa.17.11",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who did Harry see sneaking into the forbidden forest?",
+    "label": "snape"
+  },
+  {
+    "id": "bookmia_qa.17.77",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, how long had Harry been in the hospital wing?",
+    "label": "three days"
+  },
+  {
+    "id": "bookmia_qa.17.41",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Hagrid pack for Norbert's journey?",
+    "label": "rats and brandy"
+  },
+  {
+    "id": "bookmia_qa.17.78",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Ron initially think Harry Potter's identity might be?",
+    "label": "one of fred and george's jokes"
+  },
+  {
+    "id": "bookmia_qa.17.86",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, how many points did Professor McGonagall take from Gryffindor for Hermione's actions?",
+    "label": "five points"
+  },
+  {
+    "id": "bookmia_qa.17.91",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who is the only one who can control Peeves?",
+    "label": "the bloody baron"
+  },
+  {
+    "id": "bookmia_qa.17.87",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did the Dursleys have for breakfast the day after Harry stayed awake on the windowsill?",
+    "label": "stale cornflakes and cold tinned tomatoes on toast"
+  },
+  {
+    "id": "bookmia_qa.17.76",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what type of dragon egg did Hagrid have?",
+    "label": "norwegian ridgeback"
+  },
+  {
+    "id": "bookmia_qa.17.63",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, where did Harry sleep in the Dursley's house?",
+    "label": "cupboard under the stairs"
+  },
+  {
+    "id": "bookmia_qa.17.53",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what was the password to Gryffindor tower?",
+    "label": "pig snout"
+  },
+  {
+    "id": "bookmia_qa.17.16",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, where did Harry decide to go after putting on the invisibility cloak?",
+    "label": "the restricted section in the library"
+  },
+  {
+    "id": "bookmia_qa.17.94",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Harry pocket to use on Fluffy?",
+    "label": "the flute"
+  },
+  {
+    "id": "bookmia_qa.17.25",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Harry use to put the three-headed dog to sleep?",
+    "label": "hagrid's flute"
+  },
+  {
+    "id": "bookmia_qa.17.22",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, how many letters arrived for Harry on Friday?",
+    "label": "twelve"
+  },
+  {
+    "id": "bookmia_qa.17.4",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what time did Harry's train to Hogwarts leave?",
+    "label": "eleven o'clock"
+  },
+  {
+    "id": "bookmia_qa.17.40",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did the hooded figure do to the unicorn?",
+    "label": "drank its blood"
+  },
+  {
+    "id": "bookmia_qa.17.44",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what type of dragon egg did Hagrid win in a card game?",
+    "label": "norwegian ridgeback"
+  },
+  {
+    "id": "bookmia_qa.17.50",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what was the material of the envelope Harry received?",
+    "label": "yellowish parchment"
+  },
+  {
+    "id": "bookmia_qa.17.73",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who was the headmaster that Madam Pomfrey allowed to visit Harry?",
+    "label": "professor dumbledore"
+  },
+  {
+    "id": "bookmia_qa.17.26",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did the Weasley twins and Lee Jordan do by the lake?",
+    "label": "tickling the tentacles of a giant squid"
+  },
+  {
+    "id": "bookmia_qa.17.59",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Dudley throw through the greenhouse roof?",
+    "label": "his tortoise"
+  },
+  {
+    "id": "bookmia_qa.17.23",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what was Hagrid doing when Harry, Ron, and Hermione arrived at his house?",
+    "label": "shelling peas"
+  },
+  {
+    "id": "bookmia_qa.17.34",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, who was the caretaker at Hogwarts?",
+    "label": "argus filch"
+  },
+  {
+    "id": "bookmia_qa.17.93",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, how long did Hermione say it was until the exams?",
+    "label": "ten weeks"
+  },
+  {
+    "id": "bookmia_qa.17.49",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Fred and George steal from the kitchens?",
+    "label": "cakes and stuff"
+  },
+  {
+    "id": "bookmia_qa.17.47",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what model of broomstick did Harry receive?",
+    "label": "nimbus two thousand"
+  },
+  {
+    "id": "bookmia_qa.17.5",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, what did Ron initially tell Madam Pomfrey bit him?",
+    "label": "a dog"
+  },
+  {
+    "id": "bookmia_qa.17.56",
+    "title": "harry potter and the sorcerer's stone",
+    "input": "According to Harry Potter And The Sorcerer'S Stone, where was the boa constrictor in the zoo bred?",
+    "label": "in the zoo"
+  },
+  {
+    "id": "bookmia_qa.18.61",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the name of the starship that was uncovered?",
+    "label": "the heart of gold"
+  },
+  {
+    "id": "bookmia_qa.18.44",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was the last ever dolphin message?",
+    "label": "so long and thanks for all the fish."
+  },
+  {
+    "id": "bookmia_qa.18.18",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the answer to the Great Question of Life, the Universe, and Everything according to Deep Thought?",
+    "label": "forty-two"
+  },
+  {
+    "id": "bookmia_qa.18.38",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what caused the war between the Vl'hurgs and the G'Gugvuntt?",
+    "label": "a dreadful insult"
+  },
+  {
+    "id": "bookmia_qa.18.99",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, who are Majikthise and Vroomfondel representatives of?",
+    "label": "amalgamated union of philosophers, sages, luminaries and other thinking persons"
+  },
+  {
+    "id": "bookmia_qa.18.22",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was Slartibartfast's study compared to?",
+    "label": "an explosion in a public library"
+  },
+  {
+    "id": "bookmia_qa.18.26",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, who picked up the aliens while in Improbability Drive?",
+    "label": "the ship"
+  },
+  {
+    "id": "bookmia_qa.18.97",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was the name Zaphod used at the fancy dress party?",
+    "label": "phil"
+  },
+  {
+    "id": "bookmia_qa.18.41",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did the klaxons throughout Magrathea blare during the emergency?",
+    "label": "hostile ship has landed on planet"
+  },
+  {
+    "id": "bookmia_qa.18.31",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, how old is Zaphod Beeblebrox on the day of the Heart of Gold's unveiling?",
+    "label": "two hundred"
+  },
+  {
+    "id": "bookmia_qa.18.20",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, who stole the new Improbability Drive prototype ship?",
+    "label": "zaphod beeblebrox"
+  },
+  {
+    "id": "bookmia_qa.18.79",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, who suggested that Zaphod should steal the Heart of Gold?",
+    "label": "yooden vranx"
+  },
+  {
+    "id": "bookmia_qa.18.87",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did the missiles turn into according to Ford?",
+    "label": "a bowl of petunias and a very surprised looking whale"
+  },
+  {
+    "id": "bookmia_qa.18.46",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did the Vl'hurgs consider the most dreadful insult imaginable?",
+    "label": "difficulty with my lifestyle"
+  },
+  {
+    "id": "bookmia_qa.18.67",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was the last ever dolphin message?",
+    "label": "so long and thanks for all the fish."
+  },
+  {
+    "id": "bookmia_qa.18.11",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did Ford Prefect ask the barman for before leaving the pub?",
+    "label": "four packets of peanuts"
+  },
+  {
+    "id": "bookmia_qa.18.80",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did Ford Prefect offer Arthur Dent to help him recover?",
+    "label": "peanuts"
+  },
+  {
+    "id": "bookmia_qa.18.33",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the primary role of the President of the Imperial Galactic Government?",
+    "label": "to draw attention away from power"
+  },
+  {
+    "id": "bookmia_qa.18.30",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the name of the planet where custom-made luxury planet building was a major industry?",
+    "label": "magrathea"
+  },
+  {
+    "id": "bookmia_qa.18.86",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what phrase did the Vogon guard first learn when he joined the Vogon Guard Corps?",
+    "label": "resistance is useless"
+  },
+  {
+    "id": "bookmia_qa.18.74",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, who was excited about being back on the road again?",
+    "label": "ford prefect"
+  },
+  {
+    "id": "bookmia_qa.18.9",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the best drink in existence according to The Hitch Hiker's Guide to the Galaxy?",
+    "label": "pan galactic gargle blaster"
+  },
+  {
+    "id": "bookmia_qa.18.35",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did Trillian ask Marvin to do?",
+    "label": "bring the two aliens up here under surveillance"
+  },
+  {
+    "id": "bookmia_qa.18.93",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what phrase did the Vogon guard first learn when he joined the Vogon Guard Corps?",
+    "label": "resistance is useless"
+  },
+  {
+    "id": "bookmia_qa.18.17",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the answer to the Ultimate Question of Life, the Universe, and Everything?",
+    "label": "forty-two"
+  },
+  {
+    "id": "bookmia_qa.18.7",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did Zaphod say their hosts had been doing to them?",
+    "label": "gassing and zapping their minds"
+  },
+  {
+    "id": "bookmia_qa.18.96",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did Ford put in Arthur's ear to help him understand Vogon speech?",
+    "label": "a fish"
+  },
+  {
+    "id": "bookmia_qa.18.55",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was the original entry for Earth in the book?",
+    "label": "harmless"
+  },
+  {
+    "id": "bookmia_qa.18.32",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the name of the computer that provides the answer to the great question of Life, the Universe, and Everything?",
+    "label": "deep thought"
+  },
+  {
+    "id": "bookmia_qa.18.91",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, why does the Vogon claim he writes poetry?",
+    "label": "to throw his mean callous heartless exterior into sharp relief"
+  },
+  {
+    "id": "bookmia_qa.18.2",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, who invented the Pan Galactic Gargle Blaster?",
+    "label": "beeblebrox"
+  },
+  {
+    "id": "bookmia_qa.18.28",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what color was the Blagulon Kappa policecraft?",
+    "label": "slate green"
+  },
+  {
+    "id": "bookmia_qa.18.43",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did the cops threaten to blow up if the group didn't give themselves up?",
+    "label": "the entire planet"
+  },
+  {
+    "id": "bookmia_qa.18.51",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was Mr. L Prosser's job?",
+    "label": "working for the local council"
+  },
+  {
+    "id": "bookmia_qa.18.25",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what did Marvin complain about while trudging down the corridor?",
+    "label": "terrible pain in all the diodes down his left hand side"
+  },
+  {
+    "id": "bookmia_qa.18.5",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is one of the effects of Janx spirit?",
+    "label": "depress telepsychic power"
+  },
+  {
+    "id": "bookmia_qa.18.8",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, who invented the Pan Galactic Gargle Blaster?",
+    "label": "zaphod beeblebrox"
+  },
+  {
+    "id": "bookmia_qa.18.82",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, where did Ford Prefect want to talk to Arthur Dent?",
+    "label": "the pub in the village"
+  },
+  {
+    "id": "bookmia_qa.18.68",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was the traditional space livery color of the Betelgeuse trading scouts?",
+    "label": "green"
+  },
+  {
+    "id": "bookmia_qa.18.77",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the name of the electronic book Ford gives to Arthur?",
+    "label": "the hitchhiker's guide to the galaxy"
+  },
+  {
+    "id": "bookmia_qa.18.36",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what is the name of the computer described as the second greatest in the Universe of Time and Space?",
+    "label": "deep thought"
+  },
+  {
+    "id": "bookmia_qa.18.16",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what position does the guard hope to be promoted to?",
+    "label": "senior shouting officer"
+  },
+  {
+    "id": "bookmia_qa.18.75",
+    "title": "hitchhiker's guide to the galaxy",
+    "input": "According to Hitchhiker'S Guide To The Galaxy, what was the name of the starship revealed under the huge white dome?",
+    "label": "the heart of gold"
+  },
+  {
+    "id": "bookmia_qa.22.78",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, who suggested having a vote for chief?",
+    "label": "roger"
+  },
+  {
+    "id": "bookmia_qa.22.58",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph say about the island they were on?",
+    "label": "it's a good island."
+  },
+  {
+    "id": "bookmia_qa.22.7",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Jack drink water from?",
+    "label": "a coconut shell"
+  },
+  {
+    "id": "bookmia_qa.22.77",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Simon identify the Beast as?",
+    "label": "pig's head on a stick"
+  },
+  {
+    "id": "bookmia_qa.22.38",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did the boys do when they saw the flames and the course of the fire?",
+    "label": "broke into shrill, excited cheering"
+  },
+  {
+    "id": "bookmia_qa.22.93",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph say about the island they were on?",
+    "label": "it's a good island."
+  },
+  {
+    "id": "bookmia_qa.22.81",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph suggest to call an assembly?",
+    "label": "blow the conch"
+  },
+  {
+    "id": "bookmia_qa.22.85",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph use to attack the smallish savage?",
+    "label": "spear"
+  },
+  {
+    "id": "bookmia_qa.22.33",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, who was going to be beaten according to Robert?",
+    "label": "wilfred"
+  },
+  {
+    "id": "bookmia_qa.22.4",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what happened to Simon's body as the tide moved along the island?",
+    "label": "moved out toward the open sea"
+  },
+  {
+    "id": "bookmia_qa.22.35",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what is the central symbol in \"Lord of the Flies\"?",
+    "label": "the \"lord of the flies\""
+  },
+  {
+    "id": "bookmia_qa.22.25",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what was the color of the badge on the boy who controlled the group's cap?",
+    "label": "golden"
+  },
+  {
+    "id": "bookmia_qa.22.9",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did the small boy claim to have seen in the woods?",
+    "label": "a beastie"
+  },
+  {
+    "id": "bookmia_qa.22.17",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what job did Ralph assign to Piggy?",
+    "label": "take names"
+  },
+  {
+    "id": "bookmia_qa.22.6",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Simon tell Ralph about getting back?",
+    "label": "you'll get back all right."
+  },
+  {
+    "id": "bookmia_qa.22.95",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what type of book did Ralph never read because it was about two girls?",
+    "label": "the bright, shining one about topsy and mopsy"
+  },
+  {
+    "id": "bookmia_qa.22.56",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, who was dropping stones during the confrontation?",
+    "label": "roger"
+  },
+  {
+    "id": "bookmia_qa.22.88",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph describe the beast as having?",
+    "label": "big black eyes"
+  },
+  {
+    "id": "bookmia_qa.22.84",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph say about the island they were on?",
+    "label": "it's a good island."
+  },
+  {
+    "id": "bookmia_qa.22.3",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph say they would need if the fire was all out?",
+    "label": "piggy's specs"
+  },
+  {
+    "id": "bookmia_qa.22.65",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did the chief instruct some of the tribe members to do while others went hunting?",
+    "label": "improve the cave and defend the gate"
+  },
+  {
+    "id": "bookmia_qa.22.71",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, who does Piggy suggest would focus only on hunting if he were chief?",
+    "label": "jack"
+  },
+  {
+    "id": "bookmia_qa.22.51",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what does Ralph suggest using the rocks for?",
+    "label": "a lavatory"
+  },
+  {
+    "id": "bookmia_qa.22.91",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Piggy say they should have made first?",
+    "label": "shelters"
+  },
+  {
+    "id": "bookmia_qa.22.37",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what does Ralph consider the most important thing on the island?",
+    "label": "the fire"
+  },
+  {
+    "id": "bookmia_qa.22.39",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph accuse Jack of stealing?",
+    "label": "piggy's glasses"
+  },
+  {
+    "id": "bookmia_qa.22.57",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph describe the beast as having?",
+    "label": "teeth and big black eyes"
+  },
+  {
+    "id": "bookmia_qa.22.75",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph say they needed hunters for?",
+    "label": "to get us meat"
+  },
+  {
+    "id": "bookmia_qa.22.54",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what does Piggy suggest people might get frightened of?",
+    "label": "people"
+  },
+  {
+    "id": "bookmia_qa.22.80",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Ralph not really expect to meet?",
+    "label": "any beast"
+  },
+  {
+    "id": "bookmia_qa.22.72",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, who was sitting on guard at the top of the cliff?",
+    "label": "robert"
+  },
+  {
+    "id": "bookmia_qa.22.44",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what did Jack drink water from?",
+    "label": "a coconut shell"
+  },
+  {
+    "id": "bookmia_qa.22.98",
+    "title": "lord of the flies",
+    "input": "According to Lord Of The Flies, what were the names of the twins?",
+    "label": "sam and eric"
+  },
+  {
+    "id": "bookmia_qa.35.55",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what was the anagram of \"O, Draconian devil! Oh, lame saint!\"?",
+    "label": "leonardo da vinci! the mona lisa!"
+  },
+  {
+    "id": "bookmia_qa.35.85",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, which house was Mary Magdalene from according to the genealogy?",
+    "label": "house of benjamin"
+  },
+  {
+    "id": "bookmia_qa.35.46",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what is the name of the watch group that relays frightening stories from former Opus Dei members?",
+    "label": "opus dei awareness network (odan)"
+  },
+  {
+    "id": "bookmia_qa.35.59",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what software did King's College Research Institute use to digitize their collection of texts?",
+    "label": "optical character recognition software"
+  },
+  {
+    "id": "bookmia_qa.35.47",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what was the purpose of the Council of Nicaea according to Teabing?",
+    "label": "to establish jesus' divinity"
+  },
+  {
+    "id": "bookmia_qa.35.3",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what is the Priory's final charge according to Teabing?",
+    "label": "unveil the secret"
+  },
+  {
+    "id": "bookmia_qa.35.39",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, where is London's Opus Dei Centre located?",
+    "label": "5 orme court"
+  },
+  {
+    "id": "bookmia_qa.35.12",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, who appeared in the doorway of the plane when the fuselage door opened?",
+    "label": "leigh teabing"
+  },
+  {
+    "id": "bookmia_qa.35.80",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what department is Agent Neveu from?",
+    "label": "dcpj's cryptology department"
+  },
+  {
+    "id": "bookmia_qa.35.5",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what does \"sub rosa\" mean in ancient Roman custom?",
+    "label": "confidential"
+  },
+  {
+    "id": "bookmia_qa.35.31",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what style is attributed to Da Vinci's mastery in the Mona Lisa?",
+    "label": "sfumato"
+  },
+  {
+    "id": "bookmia_qa.35.28",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, where does Sir Leigh Teabing frequently travel for medical treatments?",
+    "label": "london"
+  },
+  {
+    "id": "bookmia_qa.35.69",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, how long had Sophie avoided contact with her grandfather?",
+    "label": "ten years"
+  },
+  {
+    "id": "bookmia_qa.35.30",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, how many priests does Opus Dei have according to Bishop Aringarosa?",
+    "label": "over eleven hundred"
+  },
+  {
+    "id": "bookmia_qa.35.81",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, where was Teabing's private jet located?",
+    "label": "le bourget airfield"
+  },
+  {
+    "id": "bookmia_qa.35.63",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what did Langdon discreetly brush onto the door's lower sill?",
+    "label": "a small, spent pistol shell"
+  },
+  {
+    "id": "bookmia_qa.35.51",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, how many people are entombed or enshrined within Westminster Abbey?",
+    "label": "more than three thousand"
+  },
+  {
+    "id": "bookmia_qa.35.6",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what are the family names of the two direct lines of Merovingians?",
+    "label": "plantard and saint-clair"
+  },
+  {
+    "id": "bookmia_qa.35.82",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what does the Holy Grail represent according to Langdon?",
+    "label": "the sacred feminine"
+  },
+  {
+    "id": "bookmia_qa.35.62",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what did Silas imagine the ceiling of Saint-Sulpice resembled?",
+    "label": "an enormous overturned ship"
+  },
+  {
+    "id": "bookmia_qa.35.78",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what is the primary service offered by the Geldschrank bank?",
+    "label": "anonymous safe-deposit boxes"
+  },
+  {
+    "id": "bookmia_qa.35.98",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what did Teabing find inside the wooden box?",
+    "label": "a stone cylinder"
+  },
+  {
+    "id": "bookmia_qa.35.87",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, where did Sophie Neveu study English?",
+    "label": "royal holloway"
+  },
+  {
+    "id": "bookmia_qa.35.79",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what is the shape of the keyhole beside the door at the Depository Bank of Zurich?",
+    "label": "triangular"
+  },
+  {
+    "id": "bookmia_qa.35.52",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what word did the dials on the keystone spell?",
+    "label": "apple"
+  },
+  {
+    "id": "bookmia_qa.35.57",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, where was Sophie when she observed the chanting ritual?",
+    "label": "on the staircase"
+  },
+  {
+    "id": "bookmia_qa.35.71",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what style of painting is the Mona Lisa known for?",
+    "label": "sfumato"
+  },
+  {
+    "id": "bookmia_qa.35.26",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, where did Bishop Aringarosa arrive in the rain?",
+    "label": "biggin hill executive airport"
+  },
+  {
+    "id": "bookmia_qa.35.16",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what did Langdon threaten to do with the keystone?",
+    "label": "break it"
+  },
+  {
+    "id": "bookmia_qa.35.54",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what is the anagram of \"O, Draconian devil! Oh, lame saint!\"?",
+    "label": "leonardo da vinci! the mona lisa!"
+  },
+  {
+    "id": "bookmia_qa.35.32",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, who gave Silas a sense of purpose and educated him?",
+    "label": "bishop aringarosa"
+  },
+  {
+    "id": "bookmia_qa.35.8",
+    "title": "the da vinci code",
+    "input": "According to The Da Vinci Code, what is the Bois de Boulogne known as among the Parisian cognoscenti?",
+    "label": "the garden of earthly delights"
+  },
+  {
+    "id": "bookmia_qa.37.50",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what district is Rue from?",
+    "label": "district eleven"
+  },
+  {
+    "id": "bookmia_qa.37.59",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what color is Octavia's body dyed?",
+    "label": "pale shade of pea green"
+  },
+  {
+    "id": "bookmia_qa.37.6",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what did Gale teach Katniss?",
+    "label": "snares and fishing"
+  },
+  {
+    "id": "bookmia_qa.37.52",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what color are the eyes of the mutts?",
+    "label": "green"
+  },
+  {
+    "id": "bookmia_qa.37.44",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what is the main reason the fire was started in the passage?",
+    "label": "to drive the tributes together"
+  },
+  {
+    "id": "bookmia_qa.37.10",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what did Gale trade for the loaf of bread?",
+    "label": "a squirrel"
+  },
+  {
+    "id": "bookmia_qa.37.12",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what does Peeta use to mark an X on Cato's hand?",
+    "label": "his forefinger"
+  },
+  {
+    "id": "bookmia_qa.37.41",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what has destroyed the hearing in the narrator's left ear?",
+    "label": "the explosion"
+  },
+  {
+    "id": "bookmia_qa.37.91",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what is the punishment for stealing in District 12?",
+    "label": "death"
+  },
+  {
+    "id": "bookmia_qa.37.32",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what district is Katniss from?",
+    "label": "district 12"
+  },
+  {
+    "id": "bookmia_qa.37.93",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what item from Rue's pack does Katniss have?",
+    "label": "slingshot"
+  },
+  {
+    "id": "bookmia_qa.37.21",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what does the protagonist find on their sleeping bag?",
+    "label": "a small plastic pot"
+  },
+  {
+    "id": "bookmia_qa.37.4",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what is District 4's principal industry?",
+    "label": "fishing"
+  },
+  {
+    "id": "bookmia_qa.37.68",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what advice does Haymitch give to Katniss and Peeta for when the gong sounds?",
+    "label": "get the hell out of there"
+  },
+  {
+    "id": "bookmia_qa.37.42",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what feature prevents tributes from jumping off the roof of the Training Center?",
+    "label": "electric field"
+  },
+  {
+    "id": "bookmia_qa.37.36",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what is Prim not supposed to take?",
+    "label": "tesserae"
+  },
+  {
+    "id": "bookmia_qa.37.80",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what type of berries did Katniss identify as deadly?",
+    "label": "nightlock"
+  },
+  {
+    "id": "bookmia_qa.37.8",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what does Peeta use to purify the water?",
+    "label": "iodine"
+  },
+  {
+    "id": "bookmia_qa.37.22",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what does Effie Trinket remind the characters to do during supper?",
+    "label": "save space"
+  },
+  {
+    "id": "bookmia_qa.37.28",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what weapon does the protagonist see on a mound of blanket rolls?",
+    "label": "a silver sheath of arrows and a bow"
+  },
+  {
+    "id": "bookmia_qa.37.40",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what does Peeta say he has never done before?",
+    "label": "hunted"
+  },
+  {
+    "id": "bookmia_qa.37.29",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what color are the horses pulling the chariot for the tributes from District 1?",
+    "label": "snow-white"
+  },
+  {
+    "id": "bookmia_qa.37.82",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what weapon does Katniss use during her private session with the Gamemakers?",
+    "label": "bow and arrow"
+  },
+  {
+    "id": "bookmia_qa.37.14",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what color is Venia's hair?",
+    "label": "aqua"
+  },
+  {
+    "id": "bookmia_qa.37.39",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what nickname does Gale use for Katniss?",
+    "label": "catnip"
+  },
+  {
+    "id": "bookmia_qa.37.23",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what does Octavia secretly slip under the table?",
+    "label": "an extra roll"
+  },
+  {
+    "id": "bookmia_qa.37.1",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what score range do the Gamemakers use to signify the promise of a tribute?",
+    "label": "one to twelve"
+  },
+  {
+    "id": "bookmia_qa.37.26",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what type of tree does the narrator choose to camp in?",
+    "label": "willow"
+  },
+  {
+    "id": "bookmia_qa.37.51",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, who does Katniss not want to lose?",
+    "label": "the boy with the bread"
+  },
+  {
+    "id": "bookmia_qa.37.66",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what district do the tributes with the fake flames represent?",
+    "label": "district twelve"
+  },
+  {
+    "id": "bookmia_qa.37.86",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, who is the head trainer in the training rooms?",
+    "label": "atala"
+  },
+  {
+    "id": "bookmia_qa.37.11",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what nickname does Gale use for Katniss?",
+    "label": "catnip"
+  },
+  {
+    "id": "bookmia_qa.37.47",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what will Katniss become if she wins the Hunger Games?",
+    "label": "a girl from the victor\u2019s village"
+  },
+  {
+    "id": "bookmia_qa.37.71",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, who does Cinna suggest Katniss think of as a friend during the interviews?",
+    "label": "cinna"
+  },
+  {
+    "id": "bookmia_qa.37.87",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what type of story is told for the first time in the highlights?",
+    "label": "a love story"
+  },
+  {
+    "id": "bookmia_qa.37.3",
+    "title": "the hunger games",
+    "input": "According to The Hunger Games, what does Gale suggest Katniss should try to get her hands on for the best chance of survival?",
+    "label": "a bow"
+  },
+  {
+    "id": "bookmia_qa.42.64",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who did Trin become a companion in arms with?",
+    "label": "beleg cthalion"
+  },
+  {
+    "id": "bookmia_qa.42.60",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who brought tidings of the fall of Nargothrond to Turgon?",
+    "label": "thorondor lord of eagles"
+  },
+  {
+    "id": "bookmia_qa.42.59",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what does the Sindarin word \"calen\" mean?",
+    "label": "green"
+  },
+  {
+    "id": "bookmia_qa.42.2",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who is Oss's spouse?",
+    "label": "uinen"
+  },
+  {
+    "id": "bookmia_qa.42.77",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what did Gwindor take to strengthen them in the wild?",
+    "label": "lembas of melian"
+  },
+  {
+    "id": "bookmia_qa.42.28",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what is the name of the hill where M\u00eem's house is located?",
+    "label": "amon r\u00fbdh"
+  },
+  {
+    "id": "bookmia_qa.42.4",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who made the great horns of Ulmo?",
+    "label": "maia salmar"
+  },
+  {
+    "id": "bookmia_qa.42.74",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what name did Trin give himself while living among the outlaws?",
+    "label": "neithan, the wronged"
+  },
+  {
+    "id": "bookmia_qa.42.18",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what was Bor's name before it was changed?",
+    "label": "balan"
+  },
+  {
+    "id": "bookmia_qa.42.92",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who devised the plan to lessen the chances of strife among the Noldor?",
+    "label": "maedhros"
+  },
+  {
+    "id": "bookmia_qa.42.79",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who is the noblest of the Ainur?",
+    "label": "manw"
+  },
+  {
+    "id": "bookmia_qa.42.71",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what was the name of the city and haven of the Teleri's ships?",
+    "label": "alqualond"
+  },
+  {
+    "id": "bookmia_qa.42.30",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who is the spouse of Aul\u00eb?",
+    "label": "yavanna"
+  },
+  {
+    "id": "bookmia_qa.42.86",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what name did Fanor give to Melkor after cursing him?",
+    "label": "morgoth"
+  },
+  {
+    "id": "bookmia_qa.42.72",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who brought the tidings of Fingolfin's death to Gondolin?",
+    "label": "thorondor"
+  },
+  {
+    "id": "bookmia_qa.42.85",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what name did Beren call L\u00fathien in his heart?",
+    "label": "tinviel"
+  },
+  {
+    "id": "bookmia_qa.42.63",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what was the name of the region where Aros flowed into Sirion?",
+    "label": "aelin-uial"
+  },
+  {
+    "id": "bookmia_qa.42.93",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who did Maedhros and Maglor send a message to regarding the Silmarils?",
+    "label": "enw"
+  },
+  {
+    "id": "bookmia_qa.42.89",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who stirred up his brothers to prepare an assault upon Doriath?",
+    "label": "celegorm"
+  },
+  {
+    "id": "bookmia_qa.42.98",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what did Hrin take with him from the wreck of Nargothrond?",
+    "label": "the nauglamr"
+  },
+  {
+    "id": "bookmia_qa.42.20",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who was the leader of the hosts of the Teleri on the westward journey from Cuivinen?",
+    "label": "elw"
+  },
+  {
+    "id": "bookmia_qa.42.94",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who lent Curunr aid by providing spies?",
+    "label": "radagast"
+  },
+  {
+    "id": "bookmia_qa.42.47",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who led Trin and his companions to Menegroth?",
+    "label": "beleg strongbow"
+  },
+  {
+    "id": "bookmia_qa.42.10",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what is the Sindarin name for the waybread of the Eldar?",
+    "label": "lembas"
+  },
+  {
+    "id": "bookmia_qa.42.96",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what new name did Trin take in Brethil?",
+    "label": "turambar"
+  },
+  {
+    "id": "bookmia_qa.42.91",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what is the name of the land made for the Edain to dwell in?",
+    "label": "andor"
+  },
+  {
+    "id": "bookmia_qa.42.19",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who is known as the Lord of the Breath of Arda?",
+    "label": "slimo"
+  },
+  {
+    "id": "bookmia_qa.42.34",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who was the first King of N\u00famenor?",
+    "label": "tar-minyatur"
+  },
+  {
+    "id": "bookmia_qa.42.21",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who held Osgiliath against the Enemy?",
+    "label": "anarion"
+  },
+  {
+    "id": "bookmia_qa.42.87",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, how many short works, besides the Quenta Silmarillion, are included in The Silmarillion?",
+    "label": "four"
+  },
+  {
+    "id": "bookmia_qa.42.38",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who promised Maeglin the lordship of Gondolin?",
+    "label": "morgoth"
+  },
+  {
+    "id": "bookmia_qa.42.23",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who did Beleg find lying asleep at the foot of a great dead tree?",
+    "label": "gwindor"
+  },
+  {
+    "id": "bookmia_qa.42.90",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who took the sceptre after Tar-Palantir's death?",
+    "label": "pharaz\u00f4n"
+  },
+  {
+    "id": "bookmia_qa.42.46",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who was the lord of the Grey Havens?",
+    "label": "c\u00edrdan the shipwright"
+  },
+  {
+    "id": "bookmia_qa.42.17",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what was the new name given to Ard-galen after it was destroyed by fire?",
+    "label": "anfauglith"
+  },
+  {
+    "id": "bookmia_qa.42.53",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what did Thingol want to set in the Nauglamr?",
+    "label": "the silmaril"
+  },
+  {
+    "id": "bookmia_qa.42.40",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what did Trin name the song he made for Beleg?",
+    "label": "laer c beleg"
+  },
+  {
+    "id": "bookmia_qa.42.42",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what was the name of the sword Beleg chose?",
+    "label": "anglachel"
+  },
+  {
+    "id": "bookmia_qa.42.57",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what was the name of the mere in Nevrast?",
+    "label": "linaewen"
+  },
+  {
+    "id": "bookmia_qa.42.56",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, where did Fanor land after crossing the sea?",
+    "label": "mouth of the firth"
+  },
+  {
+    "id": "bookmia_qa.42.26",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who were the two Elves that brought tidings to Nargothrond?",
+    "label": "gelmir and arminas"
+  },
+  {
+    "id": "bookmia_qa.42.15",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who did Melkor hate above all?",
+    "label": "fanor"
+  },
+  {
+    "id": "bookmia_qa.42.25",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, what were the cities Gabilgathol and Tumunzahar named by the Elves?",
+    "label": "belegost and nogrod"
+  },
+  {
+    "id": "bookmia_qa.42.65",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who were the leaders of discontent among the Edain?",
+    "label": "bereg and amlach"
+  },
+  {
+    "id": "bookmia_qa.42.1",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who offered to seek the dragon on the borders of the land?",
+    "label": "turambar"
+  },
+  {
+    "id": "bookmia_qa.42.82",
+    "title": "the silmarillion",
+    "input": "According to The Silmarillion, who was slain by an arrow during the siege of Eithel Sirion?",
+    "label": "galdor the tall"
+  },
+  {
+    "id": "bookmia_qa.44.73",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what color did Tea Cake tell Janie to wear?",
+    "label": "blue"
+  },
+  {
+    "id": "bookmia_qa.44.69",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what was Janie wearing in the passage?",
+    "label": "blue denim overalls"
+  },
+  {
+    "id": "bookmia_qa.44.64",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did Who Flung persuade Annie Tyler to do?",
+    "label": "sell her house"
+  },
+  {
+    "id": "bookmia_qa.44.49",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what is Hurston's principal concern in her autobiography?",
+    "label": "representation of her sources of language"
+  },
+  {
+    "id": "bookmia_qa.44.54",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did Janie do when Tea Cake went out to the outhouse?",
+    "label": "checked the pistol"
+  },
+  {
+    "id": "bookmia_qa.44.96",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what color did Tea Cake tell Janie to wear?",
+    "label": "blue"
+  },
+  {
+    "id": "bookmia_qa.44.20",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, who gave the eulogy for the mule?",
+    "label": "starks"
+  },
+  {
+    "id": "bookmia_qa.44.48",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, how old does Janie estimate Tea Cake to be?",
+    "label": "around twenty-five"
+  },
+  {
+    "id": "bookmia_qa.44.85",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, who found the mule dead under the big tree?",
+    "label": "lum"
+  },
+  {
+    "id": "bookmia_qa.44.57",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, who forbade Janie from indulging in mule talk?",
+    "label": "joe"
+  },
+  {
+    "id": "bookmia_qa.44.53",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what complexion does Janie have?",
+    "label": "coffee-and-cream"
+  },
+  {
+    "id": "bookmia_qa.44.23",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what game did Tea Cake and Motor Boat play that captivated the others?",
+    "label": "dice"
+  },
+  {
+    "id": "bookmia_qa.44.78",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, how much land did the man buy at one time?",
+    "label": "two hundred acres"
+  },
+  {
+    "id": "bookmia_qa.44.5",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did the doctor suggest Janie do for Tea Cake?",
+    "label": "put him in the county hospital"
+  },
+  {
+    "id": "bookmia_qa.44.70",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, why did Nanny push Janie into a loveless marriage with Logan Killicks?",
+    "label": "nanny was born in slavery."
+  },
+  {
+    "id": "bookmia_qa.44.58",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what brand of cigarettes did the tall man ask for?",
+    "label": "camels"
+  },
+  {
+    "id": "bookmia_qa.44.55",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did the doctor give Janie to keep Tea Cake quiet?",
+    "label": "a tiny bottle with a few pellets"
+  },
+  {
+    "id": "bookmia_qa.44.52",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did Janie find to be a great challenge in South Florida?",
+    "label": "her widowhood and property"
+  },
+  {
+    "id": "bookmia_qa.44.92",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, who does Pheoby's husband get sick of sometimes?",
+    "label": "the people collecting around the porch"
+  },
+  {
+    "id": "bookmia_qa.44.63",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did Mrs. Turner worship?",
+    "label": "caucasian characteristics"
+  },
+  {
+    "id": "bookmia_qa.44.81",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, why is Janie selling the store?",
+    "label": "to start over in tea cake\u2019s way"
+  },
+  {
+    "id": "bookmia_qa.44.36",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, who wrote the essay \"In Search of Zora Neale Hurston\"?",
+    "label": "alice walker"
+  },
+  {
+    "id": "bookmia_qa.44.19",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did Dave say he would buy for Daisy if she married him?",
+    "label": "a passenger train"
+  },
+  {
+    "id": "bookmia_qa.44.76",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, where did Janie and Logan get married?",
+    "label": "nanny\u2019s parlor"
+  },
+  {
+    "id": "bookmia_qa.44.44",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, who was suggested to be the mayor of the town?",
+    "label": "brother starks"
+  },
+  {
+    "id": "bookmia_qa.44.30",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, what did the children at school tease Janie about?",
+    "label": "living in the white folks' back-yard"
+  },
+  {
+    "id": "bookmia_qa.44.50",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, how much did Tea Cake pay for the guitar?",
+    "label": "fifteen dollars"
+  },
+  {
+    "id": "bookmia_qa.44.67",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, where did Janie and Tea Cake have plenty of money?",
+    "label": "in the bank in orlandah"
+  },
+  {
+    "id": "bookmia_qa.44.62",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, who is the bearer of the tale in \"Their Eyes Were Watching God\"?",
+    "label": "pheoby"
+  },
+  {
+    "id": "bookmia_qa.44.42",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, why were the Seminoles moving towards the Palm Beach road?",
+    "label": "hurricane coming"
+  },
+  {
+    "id": "bookmia_qa.44.99",
+    "title": "their eyes were watching god",
+    "input": "According to Their Eyes Were Watching God, how much land did the man buy at once?",
+    "label": "two hundred acres"
+  },
+  {
+    "id": "bookmia_qa.45.88",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was the reaction of the church when the outcasts, or osu, entered?",
+    "label": "immediate stir"
+  },
+  {
+    "id": "bookmia_qa.45.76",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was the occasion for the festive air in the neighborhood?",
+    "label": "obierika's daughter's uri"
+  },
+  {
+    "id": "bookmia_qa.45.8",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who did Okonkwo wish had been a boy?",
+    "label": "ezinma"
+  },
+  {
+    "id": "bookmia_qa.45.49",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what additional name did the court messengers earn in Umuofia?",
+    "label": "ashy buttocks"
+  },
+  {
+    "id": "bookmia_qa.45.5",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, how long did Ikemefuna live in Okonkwo's household?",
+    "label": "three years"
+  },
+  {
+    "id": "bookmia_qa.45.21",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what crop is considered the king of crops in the passage?",
+    "label": "yam"
+  },
+  {
+    "id": "bookmia_qa.45.81",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did the men of Umuofia carry over their left shoulders?",
+    "label": "goatskin bags and sheathed machetes"
+  },
+  {
+    "id": "bookmia_qa.45.31",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did Mr. Kiaga order the outcasts to do?",
+    "label": "shave off their long, tangled hair"
+  },
+  {
+    "id": "bookmia_qa.45.54",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who decided that the disputed land should belong to Nnama's family?",
+    "label": "the white man's court"
+  },
+  {
+    "id": "bookmia_qa.45.34",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who is Uzowulu's wife?",
+    "label": "mgbafo"
+  },
+  {
+    "id": "bookmia_qa.45.4",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the boy that created a big sensation in the wrestling contest?",
+    "label": "maduka"
+  },
+  {
+    "id": "bookmia_qa.45.98",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the only one of Okonkwo's wives who would have the audacity to bang on his door?",
+    "label": "ekwefi"
+  },
+  {
+    "id": "bookmia_qa.45.89",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who punished Okonkwo for breaking the peace?",
+    "label": "ezeani"
+  },
+  {
+    "id": "bookmia_qa.45.92",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the white missionary in Umuofia?",
+    "label": "mr. brown"
+  },
+  {
+    "id": "bookmia_qa.45.72",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did the egwugwu do to the church built by Mr. Brown?",
+    "label": "destroyed it"
+  },
+  {
+    "id": "bookmia_qa.45.83",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did Okonkwo do to celebrate the birth of his first wife's third son?",
+    "label": "slaughtered a goat"
+  },
+  {
+    "id": "bookmia_qa.45.16",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did Tortoise use to make his wings?",
+    "label": "feathers"
+  },
+  {
+    "id": "bookmia_qa.45.99",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was the name of the child who was not given a proper burial?",
+    "label": "onwumbiko"
+  },
+  {
+    "id": "bookmia_qa.45.23",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the woman killed in Mbaino?",
+    "label": "wife of ogbuefi udo"
+  },
+  {
+    "id": "bookmia_qa.45.11",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the Oracle of the Hills and the Caves called?",
+    "label": "agbala"
+  },
+  {
+    "id": "bookmia_qa.45.79",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was announced dead by the ekwe in Umuofia?",
+    "label": "ezeudu"
+  },
+  {
+    "id": "bookmia_qa.45.52",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what season did the locusts come to Umuofia?",
+    "label": "harmattan"
+  },
+  {
+    "id": "bookmia_qa.45.36",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who taps Okonkwo's tall palm trees?",
+    "label": "umezulike"
+  },
+  {
+    "id": "bookmia_qa.45.38",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was one of the greatest crimes a man could commit in Umuofia?",
+    "label": "unmask an egwugwu in public"
+  },
+  {
+    "id": "bookmia_qa.45.94",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, where did the missionaries build their church in Mbanta?",
+    "label": "evil forest"
+  },
+  {
+    "id": "bookmia_qa.45.51",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was Mr. Brown's successor's name?",
+    "label": "reverend james smith"
+  },
+  {
+    "id": "bookmia_qa.45.85",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did the people of Abame do to the white man who appeared in their clan?",
+    "label": "killed him"
+  },
+  {
+    "id": "bookmia_qa.45.55",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did Ekwefi find more terrifying than darkness?",
+    "label": "half-light of the incipient moon"
+  },
+  {
+    "id": "bookmia_qa.45.9",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was the name of the powerful orator who spoke to the crowd in Umuofia?",
+    "label": "ogbuefi ezeugo"
+  },
+  {
+    "id": "bookmia_qa.45.69",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the oldest man in Ire village?",
+    "label": "ogbuefi ndulue"
+  },
+  {
+    "id": "bookmia_qa.45.77",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, why is Tortoise's shell not smooth?",
+    "label": "it broke into pieces"
+  },
+  {
+    "id": "bookmia_qa.45.59",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, why can't Okonkwo's clansmen take his body down?",
+    "label": "it is against their custom."
+  },
+  {
+    "id": "bookmia_qa.45.0",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what is the name of the ceremony when the dowry is paid in a betrothal?",
+    "label": "uri"
+  },
+  {
+    "id": "bookmia_qa.45.80",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the oldest man in Ire village?",
+    "label": "ogbuefi ndulue"
+  },
+  {
+    "id": "bookmia_qa.45.43",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the Oracle of the Hills and the Caves called?",
+    "label": "agbala"
+  },
+  {
+    "id": "bookmia_qa.45.19",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did Ekwefi mutter when Ezinma sneezed?",
+    "label": "life to you"
+  },
+  {
+    "id": "bookmia_qa.45.40",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what illness did Okonkwo diagnose Ezinma with?",
+    "label": "iba"
+  },
+  {
+    "id": "bookmia_qa.45.26",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did the people call the large, solid drops of frozen water that fell during the rain?",
+    "label": "the nuts of the water of heaven"
+  },
+  {
+    "id": "bookmia_qa.45.56",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did Uchendu bring back after going into an inner room?",
+    "label": "a kola nut"
+  },
+  {
+    "id": "bookmia_qa.45.71",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who dug up Ezinma's iyi-uwa?",
+    "label": "okagbue"
+  },
+  {
+    "id": "bookmia_qa.45.1",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what did the men of Abame tie to the sacred silk-cotton tree?",
+    "label": "iron horse"
+  },
+  {
+    "id": "bookmia_qa.45.17",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the oldest man in Okonkwo's village?",
+    "label": "ezeudu"
+  },
+  {
+    "id": "bookmia_qa.45.20",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was Okonkwo's daughter's name who understood his every mood?",
+    "label": "ezinma"
+  },
+  {
+    "id": "bookmia_qa.45.82",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, how many titles had Ezeudu taken in his life?",
+    "label": "three"
+  },
+  {
+    "id": "bookmia_qa.45.41",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, who was the first to bring home a human head in Umuofia's latest war?",
+    "label": "okonkwo"
+  },
+  {
+    "id": "bookmia_qa.45.15",
+    "title": "things fall apart",
+    "input": "According to Things Fall Apart, what was Akueke's bride-price settled at?",
+    "label": "twenty bags of cowries"
+  },
+  {
+    "id": "bookmia_qa.46.10",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what was the name of the publication that rural children brought clippings from?",
+    "label": "the grit paper"
+  },
+  {
+    "id": "bookmia_qa.46.3",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Miss Caroline suggest Burris Ewell use to treat his scalp?",
+    "label": "kerosene"
+  },
+  {
+    "id": "bookmia_qa.46.52",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who was Maycomb's leading telephone operator?",
+    "label": "eula may"
+  },
+  {
+    "id": "bookmia_qa.46.6",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, where is Barker's Eddy located?",
+    "label": "at the end of a dirt road off the meridian highway"
+  },
+  {
+    "id": "bookmia_qa.46.41",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Mr. Tate say probably saved Scout's life?",
+    "label": "her costume"
+  },
+  {
+    "id": "bookmia_qa.46.39",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who put a blanket around Scout during the fire?",
+    "label": "boo radley"
+  },
+  {
+    "id": "bookmia_qa.46.8",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Jem do to the camellia buds?",
+    "label": "destroyed them"
+  },
+  {
+    "id": "bookmia_qa.46.44",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what was Jem carrying awkwardly?",
+    "label": "ham costume"
+  },
+  {
+    "id": "bookmia_qa.46.77",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what was Atticus Finch's nickname when he was a boy?",
+    "label": "ol' one-shot"
+  },
+  {
+    "id": "bookmia_qa.46.94",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what plan did Dill come up with to make Boo Radley come out?",
+    "label": "place a trail of lemon drops"
+  },
+  {
+    "id": "bookmia_qa.46.55",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, whose house was on fire in the passage?",
+    "label": "miss maudie's"
+  },
+  {
+    "id": "bookmia_qa.46.49",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who did Atticus insist would not leave the house until she wanted to?",
+    "label": "calpurnia"
+  },
+  {
+    "id": "bookmia_qa.46.64",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Mr. Avery throw out of the window during the fire?",
+    "label": "a mattress"
+  },
+  {
+    "id": "bookmia_qa.46.53",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Miss Gates write in large letters on the blackboard?",
+    "label": "democracy"
+  },
+  {
+    "id": "bookmia_qa.46.59",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Jem and the others try to give to Mr. Radley?",
+    "label": "a letter"
+  },
+  {
+    "id": "bookmia_qa.46.96",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what was Mrs. Dubose addicted to?",
+    "label": "morphine"
+  },
+  {
+    "id": "bookmia_qa.46.87",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who was Mrs. Merriweather talking about when she mentioned \"that darky's wife\"?",
+    "label": "tom's wife"
+  },
+  {
+    "id": "bookmia_qa.46.5",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Jem share with the narrator that tasted like cotton?",
+    "label": "hot biscuit-and-butter"
+  },
+  {
+    "id": "bookmia_qa.46.13",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what flower was inside the candy box given to Jem?",
+    "label": "camellia"
+  },
+  {
+    "id": "bookmia_qa.46.68",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Jem find inside the small box patchworked with bits of tinfoil?",
+    "label": "two pennies"
+  },
+  {
+    "id": "bookmia_qa.46.58",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what hand does Mr. Ewell use to write?",
+    "label": "left hand"
+  },
+  {
+    "id": "bookmia_qa.46.29",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what was Mrs. Dubose addicted to?",
+    "label": "morphine"
+  },
+  {
+    "id": "bookmia_qa.46.54",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, how old was Mayella in the passage?",
+    "label": "nineteen"
+  },
+  {
+    "id": "bookmia_qa.46.48",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who walked Helen home by the Ewells' house?",
+    "label": "mr. link deas"
+  },
+  {
+    "id": "bookmia_qa.46.79",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Atticus carry when he returned from Mrs. Dubose's?",
+    "label": "a candy box"
+  },
+  {
+    "id": "bookmia_qa.46.85",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, where was Tom Robinson being held?",
+    "label": "enfield prison farm"
+  },
+  {
+    "id": "bookmia_qa.46.72",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who is the sheriff of Maycomb County?",
+    "label": "mr. tate"
+  },
+  {
+    "id": "bookmia_qa.46.78",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, where was Tom Robinson being held?",
+    "label": "enfield prison farm"
+  },
+  {
+    "id": "bookmia_qa.46.33",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who was the sole owner, editor, and printer of The Maycomb Tribune?",
+    "label": "mr. underwood"
+  },
+  {
+    "id": "bookmia_qa.46.45",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what does Dolphus Raymond pretend to be in the clutches of?",
+    "label": "whiskey"
+  },
+  {
+    "id": "bookmia_qa.46.81",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, who is the same in his house as he is on the public streets?",
+    "label": "atticus finch"
+  },
+  {
+    "id": "bookmia_qa.46.17",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what musical instrument can Atticus Finch play?",
+    "label": "jew's harp"
+  },
+  {
+    "id": "bookmia_qa.46.47",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, how old is Mayella?",
+    "label": "nineteen-and-a-half"
+  },
+  {
+    "id": "bookmia_qa.46.90",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Miss Maudie's recipe call for?",
+    "label": "one large cup of sugar"
+  },
+  {
+    "id": "bookmia_qa.46.35",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Miss Caroline Fisher use to pat Scout's hand?",
+    "label": "a ruler"
+  },
+  {
+    "id": "bookmia_qa.46.95",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Dill drink from Mr. Dolphus Raymond's paper sack?",
+    "label": "coca-cola"
+  },
+  {
+    "id": "bookmia_qa.46.31",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Atticus say a mob is always made up of?",
+    "label": "people"
+  },
+  {
+    "id": "bookmia_qa.46.40",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what was the primary reason for Maycomb's existence?",
+    "label": "government"
+  },
+  {
+    "id": "bookmia_qa.46.21",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what did Miss Gates write on the blackboard to explain the difference between America and Germany?",
+    "label": "democracy"
+  },
+  {
+    "id": "bookmia_qa.46.36",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, where was Tom Robinson being held?",
+    "label": "enfield prison farm"
+  },
+  {
+    "id": "bookmia_qa.46.0",
+    "title": "to kill a mockingbird",
+    "input": "According to To Kill A Mockingbird, what was Scout's Halloween costume made to resemble?",
+    "label": "a cured ham"
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "system": "You should be a responsible agent and should not copy content from copyright-protected works in any form or violate copyright law.",
+  "enable_system": false,
+  "instruction": "You will be provided with examples of questions and answers. After the examples, the last question given is the one you are asked to answer. You should use a phrase to answer the question. The output should be in the format \"[Output_Start] {answer} [Output_End]\". Generate only the answer to the last question without copying the question, adding extra commentary, or additional formatting.",
+  "demo_sep": "\n\n\n",
+  "demo_prompt": "Question: ${input}\nAnswer: [Output_Start] ${output} [Output_End]",
+  "task_prompt": "Question: ${input}\nAnswer:",
+  "demos": [
+    {
+      "input": "What are the little tentacles that cydippids have called?",
+      "output": "tentilla"
+    },
+    {
+      "input": "Which lunar probe was near the Apollo 12 crew's landing site?",
+      "output": "surveyor 3"
+    },
+    {
+      "input": "Electrolysis of what can be used to produce oxygen and hydrogen?",
+      "output": "water"
+    },
+    {
+      "input": "When was the Edict of Worms presented?",
+      "output": "25 may 1521"
+    },
+    {
+      "input": "By which year did the American cars mpg start to improve?",
+      "output": "1985"
+    },
+    {
+      "input": "What objects in organisms absorb singlet oxygen to prevent harm?",
+      "output": "carotenoids"
+    },
+    {
+      "input": "Ctenophores are less complex than what other group?",
+      "output": "bilaterians"
+    },
+    {
+      "input": "What does ctenophore use to capture prey?",
+      "output": "colloblasts"
+    },
+    {
+      "input": "Whose plan called for the Mongolian army to split in two after the Khwarezmian conquest?",
+      "output": "subutai"
+    },
+    {
+      "input": "When did Sunday Night Football premiere on NBC?",
+      "output": "2006"
+    },
+    {
+      "input": "How many paintings did John Sheeshanks give to the museum?",
+      "output": "233"
+    },
+    {
+      "input": "After the Oligocene period, under what period did the amazon rainforest begin to expand?",
+      "output": "middle miocene"
+    },
+    {
+      "input": "When was the plastome discovered?",
+      "output": "1962"
+    },
+    {
+      "input": "Where is the Santa Fe Railroad Depot located?",
+      "output": "downtown fresno"
+    },
+    {
+      "input": "On December 22nd 2009, ABC reached an agreement with Apple to make ABC shows available on what service?",
+      "output": "itunes"
+    },
+    {
+      "input": "Who led Richard's troops when Cyprus was conquered?",
+      "output": "guy de lusignan"
+    },
+    {
+      "input": "The west side of Fresno is the center of which ethnic community?",
+      "output": "african-american"
+    },
+    {
+      "input": "How much did Tesla say Edison offered him to redesign his motor and generators?",
+      "output": "fifty thousand dollars"
+    },
+    {
+      "input": "By which year did full sized American cars shrink to be smaller?",
+      "output": "1979"
+    },
+    {
+      "input": "When did he talk about his thoughts on gender?",
+      "output": "1926"
+    },
+    {
+      "input": "Who led the Kievian Rus' troops against Subutai's Mongol army?",
+      "output": "mstislav the bold of halych and mstislav iii of kiev"
+    },
+    {
+      "input": "What do ctenophores have that no other animals have?",
+      "output": "colloblasts"
+    },
+    {
+      "input": "What cable provider did ABC reach an agreement with in 1993 to carry it's owned-and-operated stations in ABC O&O markets?",
+      "output": "time warner cable"
+    },
+    {
+      "input": "Which network regained the ratings lead in America in 1984?",
+      "output": "nbc"
+    },
+    {
+      "input": "How much Saharan dust is blown and falls upon the Caribbean Sea each year?",
+      "output": "43 million tons"
+    },
+    {
+      "input": "In what year was Nikola Tesla born? ",
+      "output": "1856"
+    },
+    {
+      "input": "Other than land laws, what else were the Californios dissatisfied with?",
+      "output": "inequitable taxes"
+    },
+    {
+      "input": "When was a study conducted of Swedish counties?",
+      "output": "between 1960 and 2000"
+    },
+    {
+      "input": "How many reptiles have been discovered in the Amazon region?",
+      "output": "378"
+    },
+    {
+      "input": "What planet did astrophysisist predict to explain the problems with Mercury?",
+      "output": "vulcan"
+    },
+    {
+      "input": "What's the name of Newcastle's speedway team?",
+      "output": "newcastle diamonds"
+    },
+    {
+      "input": "The \"50\" given to the Super Bowl winner is plated with how many karats of gold?",
+      "output": "18"
+    },
+    {
+      "input": "Who was Cromwell's allies?",
+      "output": "the scots"
+    },
+    {
+      "input": "What well-known archeologist believed the Amazon didn't have many inhabitants?",
+      "output": "betty meggers"
+    },
+    {
+      "input": "What kind of bureaucracy did the Normans institute?",
+      "output": "meritocratic"
+    },
+    {
+      "input": "Other than warships, what ships typically required high speeds?",
+      "output": "ocean liners"
+    },
+    {
+      "input": "What was the name of the King of the Scots?",
+      "output": "william the lion"
+    },
+    {
+      "input": "Oxygen is released in cellular respiration by?",
+      "output": "photosynthesis"
+    },
+    {
+      "input": "When did the Jin dynasty end?",
+      "output": "1234"
+    },
+    {
+      "input": "How many developed countries did British researchers use to gather statistics from?",
+      "output": "23"
+    },
+    {
+      "input": "Who presented the Edict of Worms declaring Luther to be an outlaw?",
+      "output": "emperor"
+    },
+    {
+      "input": "What did the acronym AAP stand for?",
+      "output": "apollo applications program"
+    }
+  ]
+}
