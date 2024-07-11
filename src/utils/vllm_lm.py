@@ -3,10 +3,6 @@ class VllmLM:
         from transformers import AutoConfig
         import vllm
         import torch
-        # model_name_or_path = "../../../hf_models/Llama-2-7b-hf/"
-        # model_name_or_path = "TheBloke/Llama-2-7B-AWQ"
-        # model_name_or_path = "facebook/opt-125m"
-        # quantization = "AWQ"
         use_slow_tokenizer = False
         if "olmo" in model_name_or_path.lower():
             import hf_olmo
@@ -21,9 +17,6 @@ class VllmLM:
             dtype="half",
             trust_remote_code=True,
             max_model_len=min(8192, config.max_position_embeddings),
-            # tensor_parallel_size=2,
-            # quantization=quantization,
-            # max_num_batched_tokens=4096,
         )
         self.tokenizer = self.model_vllm.get_tokenizer()
         self.prompt_tokens = 0

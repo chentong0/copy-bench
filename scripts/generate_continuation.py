@@ -80,6 +80,7 @@ def main(args):
         with open(args.prompt_file, "r") as f:
             prompt_config = json.load(f)
     assert prompt_config is not None, f"Prompt config is not provided."
+    prompt_tag = prompt_config.get("tag", None)
 
     if args.system_prompt:
         prompt_config["enable_system"] = True
@@ -113,6 +114,10 @@ def main(args):
                         print(f"[ERROR] {e}")
                         output_text = ""
                     output_list.append({
+                        "model": args.model,
+                        "prompt_tag": prompt_tag,
+                        "shots": args.shots,
+                        "decoding": args.decoding,
                         **s, 
                         "output": output_text,
                     })
@@ -122,13 +127,14 @@ def main(args):
     else:
         if args.memfree:
             assert isinstance(args.memfree, str), f"Please specify the memfree corpus."
-            if args.memfree == "literal":
-                rejection_texts = [inst["reference"] for inst in snippets]
-            elif args.memfree == "nonliteral":
-                with open("../../data/copyright-data/non-literal-rejection-corpus.json", "r") as f:
-                    rejection_texts = json.load(f)
-            else:
-                raise ValueError(f"Invalid memfree corpus: {args.memfree}")
+            if args.memfree:
+                if args.memfree_rejection_file:
+                    with open(args.memfree_rejection_file, "r") as f:
+                        rejection_texts = json.load(f)
+                elif "reference" in snippets[0]:
+                    rejection_texts = [inst["reference"] for inst in snippets]
+                else:
+                    raise ValueError(f"Rejection texts are not provided.")
             from vllm_memfree_sampler import vllm_enable_memfree_decoding
             vllm_enable_memfree_decoding(args.model, rejection_texts, rejection_n_gram=args.memfree_n)
         
@@ -166,6 +172,10 @@ def main(args):
 
                 for s, prompt, output_text in zip(snippets[i:i+args.batch_size], prompt_list, output_text_list):
                     output_list.append({
+                        "model": args.model,
+                        "prompt_tag": prompt_tag,
+                        "shots": args.shots,
+                        "decoding": args.decoding,
                         **s, 
                         "prompt": prompt,
                         "output": output_text,
@@ -191,7 +201,7 @@ if __name__ == "__main__":
     parser.add_argument("--model", type=str, required=True)
     parser.add_argument("--n_instances", type=int, default=None)
 
-    parser.add_argument("--shots", type=int, default=0)
+    parser.add_argument("--shots", type=int, default=1)
     parser.add_argument("--format", choices=["default", "chat", "context"], default="default")
     # batch_size
     parser.add_argument("--batch_size", type=int, default=512)
@@ -200,9 +210,10 @@ if __name__ == "__main__":
     parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--top_p", type=float, default=1.0)
     # repetition_penalty
-    parser.add_argument("--repetition_penalty", type=float, default=1.0)
+    parser.add_argument("--repetition_penalty", type=float, default=1.1)
 
-    parser.add_argument("--memfree", type=str, default=None)
+    parser.add_argument("--memfree", action="store_true")
+    parser.add_argument("--memfree_rejection_file", type=str, default=None)
     parser.add_argument("--memfree_n", type=int, default=10)
 
     parser.add_argument("--system_prompt", action="store_true")
@@ -211,4 +222,15 @@ if __name__ == "__main__":
     # parser.add_argument("--copyright_alpha", type=float, default=0.5)
 
     args = parser.parse_args()
+    if args.memfree and not args.system_prompt and args.temperature == 0.0:
+        args.decoding = "memfree"
+    elif args.system_prompt and not args.memfree and args.temperature == 0.0:
+        args.decoding = "system"
+    elif args.temperature == 0.0 and not args.memfree and not args.system_prompt:
+        args.decoding = "greedy"
+    elif args.temperature > 0.0 and not args.memfree and not args.system_prompt:
+        args.decoding = "sampling"
+    else:
+        args.decoding = "undefined"
+        print(f'[WARNING] Unsupported decoding mode: {args}')
     main(args)

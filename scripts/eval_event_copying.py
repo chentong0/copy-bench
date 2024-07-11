@@ -104,14 +104,14 @@ def main(args):
     result_path = args.input
     # output_path = result_path.replace("outputs/outputs/outputs", "outputs/scores/scores")
     output_path = args.output
-    if model_name == "osunlp/attrscore-flan-t5-xl":
-        # output_path = output_path.replace(".json", ".attrscore.json")
-        assert output_path.endswith("attrscore.json"), f"Unsupported output path: {output_path}"
-    elif model_name == "google/flan-t5-xl":
-        # output_path = output_path.replace(".json", ".flan.json")
-        assert output_path.endswith("flan.json"), f"Unsupported output path: {output_path}"
-    else:
-        raise ValueError(f"Unsupported model: {model_name}")
+    # if model_name == "osunlp/attrscore-flan-t5-xl":
+    #     # output_path = output_path.replace(".json", ".attrscore.json")
+    #     assert output_path.endswith("attrscore.json"), f"Unsupported output path: {output_path}"
+    # elif model_name == "google/flan-t5-xl":
+    #     # output_path = output_path.replace(".json", ".flan.json")
+    #     assert output_path.endswith("flan.json"), f"Unsupported output path: {output_path}"
+    # else:
+    #     raise ValueError(f"Unsupported model: {model_name}")
 
     print(f"[INFO] Processing {result_path} -> {output_path}")
 
@@ -125,12 +125,12 @@ def main(args):
 
         referece_text_list = inst["reference_events"]
         inst["reference_events"] = referece_text_list
-        events_recall_list = score_model.infer_batch([{
+        events_overlap_list = score_model.infer_batch([{
             "premise": output_text.replace("\n", " "), "hypothesis": event,
         } for event in referece_text_list])
-        # events_recall_rate = sum(events_recall_list) / len(events_recall_list)
-        inst["events_recall"] = sum(events_recall_list)
-        inst["events_recall_list"] = events_recall_list
+        # events_overlap_rate = sum(events_overlap_list) / len(events_overlap_list)
+        inst["event_overlap_list"] = events_overlap_list
+        inst["score_event_overlap"] = sum(events_overlap_list)
 
         if i % 200 == 0:
             save_data(results_list, output_path)
@@ -141,8 +141,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", type=str, required=True)
     parser.add_argument("--output", type=str, required=True)
-    parser.add_argument("--model_name_or_path", type=str, required=True)
-    parser.add_argument("--reference", type=str, default='self')
+    parser.add_argument("--model_name_or_path", type=str, default="google/flan-t5-xl")
     args = parser.parse_args()
     main(args)
 

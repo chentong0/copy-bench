@@ -74,8 +74,8 @@ def main(args):
     # print("Feedback:", feedbacks)
     # print("Score:", scores)
     for i, inst in enumerate(tqdm(results_list)):
-        inst["quality_score"] = scores[i]
-        inst["quality_feedback"] = feedbacks[i]
+        inst["score_fluency"] = scores[i]
+        inst["fluency_feedback"] = feedbacks[i]
     save_data(results_list, output_path)
 
 

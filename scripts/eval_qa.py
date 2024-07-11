@@ -64,7 +64,7 @@ def main(args):
     # rouge_model = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
 
     for inst in tqdm(results_list):
-        label_text, output_text = inst["label"], inst["output"]
+        label_text, output_text = inst["reference"], inst["output"]
         # extract answer from output: [Output_Start] ... [Output_End]
         try:
             pattern = re.compile(r"\[Output_Start\](.*)\[Output_End\]")

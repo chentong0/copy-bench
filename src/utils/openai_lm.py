@@ -6,15 +6,13 @@ import os
 import numpy as np
 import logging
 
-class OpenAIModel(LM):
-
+class OpenAIModel:
     def __init__(self, model_name, cache_file=None, model_mode="chat", api_type="openai", save_interval=100):
         self.model_name = model_name
         self.model_mode = model_mode
         self.api_type = api_type
         self.prompt_tokens = 0
         self.completion_tokens = 0
-        super().__init__(cache_file, save_interval)
 
     def load_model(self):
         # load api key
@@ -29,7 +27,7 @@ class OpenAIModel(LM):
                 api_key=os.environ["M_OPENAI_API_KEY"],
             )
 
-    def _generate(self, prompt_or_message, max_new_tokens=100, temperature=0.0, top_p=1.0, return_response=False):
+    def generate(self, prompt_or_message, max_new_tokens=100, temperature=0.0, top_p=1.0, return_response=False):
         # return a tuple of string (generated text) and metadata (any format)
         # This should be about generating a response from the prompt, no matter what the application is
 
