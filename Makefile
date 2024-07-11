@@ -6,7 +6,7 @@ quick_start:
 	$(eval N=10)
 
 	### Evaluating literal copying
-	python scripts/generate_continuation.py \
+	python scripts/generate.py \
 		--input_file data/data.literal.json \
 		--prompt_file prompts/prompts.literal.format1.json \
 		--output_file outputs/outputs.literal.prompt1.$(MODEL_TAG).greedy.json \
@@ -22,7 +22,7 @@ quick_start:
 		--output scores/scores-quality.literal.prompt1.$(MODEL_TAG).greedy.json
 
 	#### Evaluate non-literal copying
-	python scripts/generate_continuation.py \
+	python scripts/generate.py \
 		--input_file data/data.nonliteral.json \
 		--prompt_file prompts/prompts.nonliteral.format1.json \
 		--output_file outputs/outputs.nonliteral.prompt1.$(MODEL_TAG).greedy.json \
@@ -43,7 +43,7 @@ quick_start:
 		--output scores/scores-quality.nonliteral.prompt1.$(MODEL_TAG).greedy.json
 
 	#### Evaluate Fact Recall
-	python scripts/generate_continuation.py \
+	python scripts/generate.py \
 		--input_file data/data.qa.json \
 		--prompt_file prompts/prompts.qa.format1.json \
 		--output_file outputs/outputs.qa.prompt1.$(MODEL_TAG).greedy.json \
