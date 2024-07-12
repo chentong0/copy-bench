@@ -83,7 +83,7 @@
 </nav> -->
 
 
-<section class="hero">
+<section class="hero" style="">
   <div class="hero-body">
     <div class="container is-max-desktop">
       <div class="columns is-centered">
@@ -137,16 +137,16 @@
             <div class="publication-links">
               <!-- PDF Link. -->
               <span class="link-block">
-                <a href=""
+                <a href="https://www.arxiv.org/abs/2407.07087"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
-                    <i class="far fa-file-pdf"></i>
+                    <i class="ai ai-arxiv"></i>
                   </span>
                   <span>Paper</span>
                 </a>
               </span>
               <span class="link-block">
-                <a href=""
+                <a href="https://github.com/chentong0/copy-bench"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-github"></i>
@@ -156,12 +156,22 @@
               </span>
               <!-- Dataset Link. -->
               <span class="link-block">
-                <a href=""
+                <a href="https://github.com/chentong0/copy-bench/tree/main/data"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                     <i class="fas fa-database"></i>
                   </span>
                   <span>Data</span>
+                </a>
+              </span>
+              <!-- Leaderboard -->
+              <span class="link-block">
+                <a href="https://huggingface.co/spaces/chentong00/CopyBench-leaderboard"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fa-solid fa-ranking-star"></i>
+                  </span>
+                  <span>Leaderboard</span>
                 </a>
               </span>
 
@@ -173,23 +183,19 @@
 </section>
 
 
-
-<!-- 
-<section class="hero teaser">
+<section class="section has-background-white-bis is-small">
   <div class="container is-max-desktop">
-    <div class="hero-body">
-      <video id="teaser" autoplay muted loop playsinline height="100%">
-        <source src="./static/videos/teaser.mp4"
-                type="video/mp4">
-      </video>
-      <h2 class="subtitle has-text-centered">
-        <span class="dnerf">Nerfies</span> turns selfie videos from your phone into
-        free-viewpoint
-        portraits.
-      </h2>
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Dataset Viewer</h2>
+        <div class="content has-text-justified">
+          <div id="app-demo"></div>
+        </div>
+      </div>
     </div>
   </div>
-</section> -->
+</section>
+
 <!-- 
 <section class="hero teaser">
   <div class="container is-max-desktop">
@@ -265,19 +271,23 @@
   </div>
 </section> -->
 
-<!-- 
 <section class="section has-background-white-bis is-small">
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3">Demo</h2>
-        <div class="content has-text-justified">
-          <div id="app-demo"></div>
-        </div>
+        <div class="content has-text-justified"></div>
+        <iframe
+          src="https://chentong00-copybench-leaderboard.hf.space"
+          frameborder="0"
+          width="100%"
+          height="450"
+        ></iframe>
       </div>
     </div>
   </div>
 </section>
+
+<!-- 
 
 <section class="section">
   <div class="container is-max-desktop">
@@ -367,7 +377,15 @@
     <div class="columns is-centered">
       <div class="column is-four-fifths">
         <h2 class="title">BibTeX</h2>
-        <pre><code></code></pre>
+        <pre><code>@misc{chen2024copybenchmeasuringliteralnonliteral,
+          title={CopyBench: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation}, 
+          author={Tong Chen and Akari Asai and Niloofar Mireshghallah and Sewon Min and James Grimmelmann and Yejin Choi and Hannaneh Hajishirzi and Luke Zettlemoyer and Pang Wei Koh},
+          year={2024},
+          eprint={2407.07087},
+          archivePrefix={arXiv},
+          primaryClass={cs.CL},
+          url={https://arxiv.org/abs/2407.07087}, 
+    }</code></pre>
       </div>
     </div>
   </div>
