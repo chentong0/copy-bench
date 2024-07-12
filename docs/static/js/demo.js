@@ -100,7 +100,7 @@ function AppDemo({data}) {
                 </div>
             </div>
             <div className="columns is-centered">
-                <div className="column is-one-third">
+                <div className="column is-half">
                     <div className="dropdown is-hoverable is-fullwidth">
                         <div className="dropdown-trigger">
                             <DropDownTrigger text={getTitle(data, tid, bid)} />
@@ -130,11 +130,13 @@ function AppDemo({data}) {
 // console.log("Hello, world!");
 // load /static/data/data.json to data waiting for rendering
 let data = {};
-Promise.all([
-    fetch("https://raw.githubusercontent.com/chentong0/copy-bench/main/data/data.literal.json").then(resp => resp.json()),
-    fetch("https://raw.githubusercontent.com/chentong0/copy-bench/main/data/data.nonliteral.json").then(resp => resp.json()),
-    fetch("https://raw.githubusercontent.com/chentong0/copy-bench/main/data/data.qa.json").then(resp => resp.json()),
-])
+// Promise.all([
+//     fetch("https://raw.githubusercontent.com/chentong0/copy-bench/main/data/data.literal.json").then(resp => resp.json()),
+//     fetch("https://raw.githubusercontent.com/chentong0/copy-bench/main/data/data.nonliteral.json").then(resp => resp.json()),
+//     fetch("https://raw.githubusercontent.com/chentong0/copy-bench/main/data/data.qa.json").then(resp => resp.json()),
+// ])
+fetch("static/data/data.json")
+    .then(resp => resp.json())
     .then(json_list => {
         // console.log("data loading");
         data = json_list;
